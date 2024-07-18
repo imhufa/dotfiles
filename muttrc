@@ -1,0 +1,15 @@
+set from = "hufalab@gmail.com"
+set realname = "hufa"
+set imap_user = "hufalab@gmail.com"
+set imap_pass = "%thelegendofDrizzt"
+set smtp_url = "smtps://hufalab@gmail.com@smtp.gmail.com"
+set smtp_pass = "%thelegendofDrizzt"
+set ssl_force_tls = yes
+set folder = imaps://pop.gmail.com
+set header_cache = ~/.mutt/cache
+set spoolfile = +INBOX
+set postponed = +Drafts
+set record = "+Sent"
+set trash = "+Trash"
+set editor = nvim
+

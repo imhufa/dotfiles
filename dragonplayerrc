@@ -1,0 +1,126 @@
+[General]
+Recent Urls[$e]=file:$HOME/Desktop/yt/2/rm0001.mp4,file:$HOME/Desktop/yt/2/massage0004.mp4,file:$HOME/Desktop/yt/2/gyno0001.mp4,file:$HOME/Desktop/yt/2/step0001.mp4,file:$HOME/Desktop/yt/2/cuck0001.mp4,file:$HOME/Desktop/yt/2/cow0001.mp4,file:$HOME/Desktop/yt/2/step0002.mp4,file:$HOME/Desktop/yt/2/vixen0001.mp4,file:$HOME/Desktop/yt/2/0001-2.mp4,file:$HOME/Desktop/yt/2/sis0001.mp4
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+2 screens: Height=235
+2 screens: Width=657
+2 screens: XPosition=2052
+2 screens: YPosition=738
+HDMI-A-0 HDMI-A-1=HDMI-A-0
+State=AAAA/wAAAAD9AAAAAgAAAAAAAADEAAAAofwCAAAAAfsAAAASAGwAZQBmAHQAXwBkAG8AYwBrAAAAADIAAAChAAAAAAAAAAAAAAABAAAASgAABaD8AgAAAAH7AAAAFgB2AG8AbAB1AG0AZQBfAGQAbwBjAGsAAAAAAAAABaAAAAAAAAAAAAAAApEAAAChAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[file:///home/go/Desktop/yt/2/0001-2.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=501276
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/cow0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=191675
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/cuck0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=83178
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/gyno0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=8424
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/massage0004.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=1570174
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/rm0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=328641
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/sis0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=610924
+Preferred Size=657,161
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/step0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=366539
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/step0002.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=4673
+Preferred Size=81,80
+Saturation=0
+
+[file:///home/go/Desktop/yt/2/vixen0001.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,6,26
+Hue=0
+IsVideo=true
+Position=1170926
+Preferred Size=81,80
+Saturation=0
