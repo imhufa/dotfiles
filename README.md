@@ -1,4 +1,4 @@
-# self-edu: dotfiles/repos/lunux
+# self-edu: dotfiles/repos/linux
 
 ## first commit of homelab linux distro dotfiles
 
