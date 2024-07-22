@@ -1,0 +1,37 @@
+{
+// general
+    "workbench.colorTheme": "PowerShell ISE",
+    "files.autoSave": "afterDelay",
+    // editor
+    "editor.autoClosingBrackets": "never",
+    "editor.autoSurround": "never",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.suggest.selectionMode": "never",
+    
+// powershell
+    "powershell.promptToUpdatePowerShell": false,
+
+// typescript
+    "typescript.suggest.enabled": false,
+    
+// js
+    "javascript.suggest.enabled": false,
+    
+// py
+    "python.autoComplete.extraPaths": [
+        
+    ],
+    "explorer.confirmDelete": false,
+    "debug.openDebug": "neverOpen",
+    "editor.tabCompletion": "on",
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "files.defaultLanguage": "powershell",
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": true,
+    "powershell.codeFolding.showLastLine": false,
+    "powershell.sideBar.CommandExplorerVisibility": true
+}

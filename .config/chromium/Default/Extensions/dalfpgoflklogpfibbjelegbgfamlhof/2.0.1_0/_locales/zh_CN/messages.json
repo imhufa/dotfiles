@@ -1,0 +1,224 @@
+{
+   "About": {
+      "message": "关于"
+   },
+   "Browser": {
+      "message": "浏览器"
+   },
+   "BrowserName": {
+      "message": "浏览器名称"
+   },
+   "BtnAdd": {
+      "message": "添加"
+   },
+   "BtnCancel": {
+      "message": "取消"
+   },
+   "BtnDelete": {
+      "message": "删除"
+   },
+   "BtnDeleteConfirm": {
+      "message": "你确定要删除 %NAME% 吗?"
+   },
+   "BtnEdit": {
+      "message": "编辑"
+   },
+   "BtnReset": {
+      "message": "重置"
+   },
+   "BtnResetDesc": {
+      "message": "将设置恢复为原始默认设置，回到初始安装状态。"
+   },
+   "BtnResetSettings": {
+      "message": "重置设置"
+   },
+   "BtnSave": {
+      "message": "保存"
+   },
+   "Default": {
+      "message": "默认"
+   },
+   "Device": {
+      "message": "设备"
+   },
+   "DeviceName": {
+      "message": "设备名称"
+   },
+   "Donate": {
+      "message": "捐款"
+   },
+   "DonateBitcoin": {
+      "message": "使用比特币捐款"
+   },
+   "DonateIt": {
+      "message": "喜欢它？欢迎捐款"
+   },
+   "DonatePaypal": {
+      "message": "使用 Paypal 捐款"
+   },
+   "DonateSend": {
+      "message": "请发送到下列地址"
+   },
+   "DonateTxt": {
+      "message": "如果这个扩展程序能帮助到你，欢迎捐款赞助开发者。"
+   },
+   "Feedback": {
+      "message": "反馈"
+   },
+   "FollowMe": {
+      "message": "关注我"
+   },
+   "HistoryNew": {
+      "message": "最近更新"
+   },
+   "HistoryUpdate": {
+      "message": "更新历史"
+   },
+   "MenuGeneral": {
+      "message": "常规设置"
+   },
+   "MoreDetails": {
+      "message": "更多详情"
+   },
+   "OnlineWebTools": {
+      "message": "在线站长工具"
+   },
+   "Options": {
+      "message": "选项"
+   },
+   "PingTitle": {
+      "message": "免费 Ping 测速"
+   },
+   "Platform": {
+      "message": "平台"
+   },
+   "PleaseEnter": {
+      "message": "请输入 %NAME%"
+   },
+   "PleaseSelect": {
+      "message": "请选择"
+   },
+   "Rate5Stars": {
+      "message": "喜欢这个扩展吗？请在 Google 网上应用商店给它 \u003Ca href=\"%LINK%\" target=_blank>打个五星评价\u003C/a> 吧，非常谢谢！:-)"
+   },
+   "RateIt": {
+      "message": "亲，喜欢这个扩展吗？请给它五星好评吧！"
+   },
+   "Recommendation": {
+      "message": "推荐"
+   },
+   "Support": {
+      "message": "技术支持"
+   },
+   "Tool_GEOIP": {
+      "message": "IP 地理位置查询"
+   },
+   "Tool_GG_Key": {
+      "message": "Google 关键词工具"
+   },
+   "Tool_GG_Trends": {
+      "message": "Google 趋势"
+   },
+   "Tool_ScreenRes": {
+      "message": "屏幕分辨率检查和统计"
+   },
+   "Tool_UserAgent": {
+      "message": "HTTP 用户代理(User Agent) 检查"
+   },
+   "Tool_W3C_LnkChk": {
+      "message": "W3C 链接检查工具"
+   },
+   "UACantEdit": {
+      "message": "Chrome 浏览器的默认 User-Agent string 不能被编辑。"
+   },
+   "UAChangeJsUa": {
+      "message": "不要改变 JavaScript objects 中的 User-Agent 值。"
+   },
+   "UAChangeJsUaDesc": {
+      "message": "不要改变 JavaScript object 中 \u003Ci>navigator.userAgent\u003C/i> 的 User-Agent 内容。如果此选项被选中，那么仅改变 HTTP headers 中的内容。"
+   },
+   "UACheck": {
+      "message": "检查 User-Agent String"
+   },
+   "UADefautChrome": {
+      "message": "Chrome 浏览器的默认 User-Agent"
+   },
+   "UAExtDesc": {
+      "message": "Http User-Agent Switcher 扩展提供网页快捷菜单，以及工具栏按钮方式快捷切换 Chrome 浏览器的 Http User-Agent 串。"
+   },
+   "UAExtDesc2": {
+      "message": "扩展预先定义了多达超过 60 种基于不同浏览器和设备的 User-agents 供你选择！下面是一份简单的列表:"
+   },
+   "UAExtDesc3": {
+      "message": "\u003Cstrong>浏览器\u003C/strong>: Internet Explorer, Firefox, Safari, Opera, Microsoft Edge 等。"
+   },
+   "UAExtDesc4": {
+      "message": "\u003Cstrong>搜索引擎蜘蛛\u003C/strong>: Baiduspider, Bingbot, Googlebot, Yahoo! Slurp, Yandexbot 等。"
+   },
+   "UAExtDesc5": {
+      "message": "\u003Cstrong>设备\u003C/strong>: Android, Blackberry, iPad, iPhone, Linux 桌面, Macintosh, Symbian 手机, Windows 桌面, Windows Phone, Xbox 等。"
+   },
+   "UAExtDesc6": {
+      "message": "同时，Http User-Agent Switcher 也支持用户定义自己的 User-Agent。"
+   },
+   "UAFlag": {
+      "message": "标识符"
+   },
+   "UAFlagLen": {
+      "message": "2~4 个字符"
+   },
+   "UAGroup": {
+      "message": "分组方式"
+   },
+   "UAGroupBrowser": {
+      "message": "按浏览器类别分组"
+   },
+   "UAGroupDev": {
+      "message": "按设备类别分组"
+   },
+   "UAMangeGroup": {
+      "message": "分组管理"
+   },
+   "UAMangeUA": {
+      "message": "User-Agent 管理"
+   },
+   "UANameUA": {
+      "message": "User-Agent 名称"
+   },
+   "UAString": {
+      "message": "User-Agent String 内容"
+   },
+   "UASwitch": {
+      "message": "切换 User-Agent"
+   },
+   "VerInfo": {
+      "message": "版本: %VER%, 开发者: %AUTHOR%"
+   },
+   "WebUtilities": {
+      "message": "在线实用工具"
+   },
+   "WebmasterTools": {
+      "message": "站长工具"
+   },
+   "Webmaster_Baidu": {
+      "message": "百度站长平台"
+   },
+   "Webmaster_Bing": {
+      "message": "Bing 网站管理员工具"
+   },
+   "Webmaster_Google": {
+      "message": "Google 网站管理员工具"
+   },
+   "Webmaster_SE": {
+      "message": "各大搜索引擎提供的站长工具"
+   },
+   "Webmaster_Yandex": {
+      "message": "Yandex 网站管理员工具"
+   },
+   "id": {
+      "message": "zh-cn"
+   },
+   "id_folder": {
+      "message": "zh_CN"
+   }
+}

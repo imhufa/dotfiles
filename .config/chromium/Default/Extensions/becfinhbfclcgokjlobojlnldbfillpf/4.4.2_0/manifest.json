@@ -1,0 +1,55 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/images/icon128.png",
+         "32": "assets/images/icon32.png",
+         "48": "assets/images/icon48.png"
+      },
+      "default_title": "__MSG_extName__"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/4243233edce988589da0fb1ef10dbc06.css", "assets/6914258a6757b043f21bf4b5f1928240.css" ],
+      "js": [ "assets/3eb5835d9077f300cfe56580f17ae016.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "differential_fingerprint": "1.d497041d3cc6356df8b37b01ee3f036286a378fa1b5512f26fb9168c6ff38e6f",
+   "externally_connectable": {
+      "matches": [ "*://*.aitopia.ai/*", "*://*.chatgptextension.ai/*" ]
+   },
+   "homepage_url": "https://chatgptextension.ai",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/images/icon128.png",
+      "32": "assets/images/icon32.png",
+      "48": "assets/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnmY3AXIVD1/GRVD2vHnccbxGc2Mtpb+UiDazgIIcN7FFZxUi38bTNXaYtbUWAkNMnVtITFJtSrQTlVBLn7xRbF/G8HYhe+x+Vd9+yeRy7euS189S7cWAY0+06CdfyAyJsc25GX1tgAeSfAQMau6z5LdUni/cdlc3EcICNRqUPW1UqpA2GV8Ne8RRCC/Tfhy4JjlaN+mLMQ018GoVXjAZQVxk9eNcJVAUAJr3EjV065OtUAP/lmGrcRTvb2QEDG+8BaCInsIAGADoNunUr5DhnD8tlzM7lNUEKH2ENM0jcTgT97tv7fmMQC/n9NRHjyCtejb3Ndhg+a78uIrTvW8GBwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "./src/html/options.html"
+   },
+   "permissions": [ "storage", "scripting", "activeTab", "unlimitedStorage", "tabs", "sidePanel" ],
+   "side_panel": {
+      "default_path": "./src/html/side_panel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.4.2",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "*.png", "*.svg", "*.otf", "*.mp4", "*.webm", "./assets/fonts/*.otf", "*.woff", "./assets/fonts/*.woff", "./assets/images/*", "./assets/images/**/*.jpg", "./assets/images/**/*.png", "./assets/images/**/*.svg", "./assets/**/*.mp4", "./assets/**/*.webm", "./assets/**/*.otf", "./assets/**/*.png", "./assets/**/*.svg", "./assets/**/*.css", "./assets/**/*.js", "./assets/videos/*", "./assets/videos/**/*.mp4", "./assets/videos/**/*.webm" ],
+      "use_dynamic_url": false
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/868e2f778520f2da472700481dad9c46.js", "assets/f6c2ea3b0cc179a4b83702356ba845d1.js", "assets/b25f058dd0413b28b0729fd121febeca.js", "assets/e412787c9b354f52d337c0d89a7a2afb.js", "assets/005ba087c24b787f1a42ca635747c33a.js", "assets/8927cb3a31b28f8a8f7a0cb0bcd7a270.js", "assets/ef6e94b174353d77df2f6d030dd5f4e9.js", "assets/bad6fc33885c3dcbb1ba56439c60597f.js", "assets/037131c481fa585d02e4fbfce6b00d30.js", "assets/996869ba6d63f2f6359689debd17c6d1.js", "assets/6d607360b71772a2db5fecf7e66b72f4.js", "assets/968c44ae597c16c4e4a5c278f0b71435.js", "assets/5014d19e01b2dbb684595ee83e3544cc.js", "assets/16d0c3eabcf5ba8ca2215d2d08e1b5ee.js" ],
+      "use_dynamic_url": true
+   } ]
+}

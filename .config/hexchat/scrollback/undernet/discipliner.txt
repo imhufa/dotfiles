@@ -1,0 +1,9 @@
+T 1718446610 18<Discipliner>	Hi
+T 1718446721 20<ajabroni>30	hi!
+T 1718446863 18<Discipliner>	How are you
+T 1718447061 20<ajabroni>30	im ok i guess.. how about you?
+T 1718447108 18<Discipliner>	I'm fine
+T 1718447111 18<Discipliner>	Are you f?
+T 1718447114 20<ajabroni>30	just a heads up, its only my 2nd time ever firing up an irc chat. 
+T 1718447132 20<ajabroni>30	no sorry i am male
+T 1718447603 24*	Discipliner has quit (Quit)

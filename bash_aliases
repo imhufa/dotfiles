@@ -57,3 +57,7 @@ gomyips='curl https://icanhazip.com'
 ### scripts
 alias golistscripts='. ~/.scripts/listscripts.sh'
 
+### command args
+alias la='ls -la'
+alias ll='ls -a1'
+

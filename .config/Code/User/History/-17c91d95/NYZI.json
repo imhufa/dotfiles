@@ -1,0 +1,20 @@
+{
+// general
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.autoSave": "afterDelay",
+    "autoc"
+    
+// powershell
+    "powershell.promptToUpdatePowerShell": false,
+    
+// typescript
+    "typescript.suggest.enabled": false,
+    
+// js
+    "javascript.suggest.enabled": false,
+    
+// py
+    "python.autoComplete.extraPaths": [
+        
+    ]
+}

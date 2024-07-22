@@ -1,0 +1,59 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1720727591019
+	},
+	"usage": true,
+	"analytics-uuid": "2fc214ff-25eb-4baf-9527-06dae1edd328",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "116765528339263405598",
+		"email": "hufalab@gmail.com",
+		"email_verified": true,
+		"at_hash": "xghMKglDQkuDwZh8aHt7qQ",
+		"iat": 1718419049,
+		"exp": 1718422649
+	},
+	"tokens": {
+		"expires_at": 1720749856913,
+		"refresh_token": "1//06BbQeKEfWhKzCgYIARAAGAYSNwF-L9IrC2NV2z1SjhmEo6Fibjv6nqhWqVgz63Vab1VKrC0GWE9PAGKCb2WE1LMyyQ32LTUKFnU",
+		"scopes": [],
+		"access_token": "ya29.a0AXooCgvffTNOdUYWnI1Fhsb8fStOGN__039kiCpISguWWYqpMaq4rd6LOSDEAv2_SXJ1cEFA0zIIxtp_LcG6BAF3fm7xPnaoSQRlWY-GKQKQlEqkamYPTa7cPKuy-LP7rFe6JNb07BC35cIuKTCAXgtvOFdw7ludRkpS_IN2K92IaCgYKAbISARASFQHGX2MixFuepWN69yBTiGaeBRBlUw0179",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg3YmJlMDgxNWIwNjRlNmQ0NDljYWM5OTlmMGU1MGU3MmEzZTQzNzQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NzY1NTI4MzM5MjYzNDA1NTk4IiwiZW1haWwiOiJodWZhbGFiQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiaEJaQlVjUXpObHlqdnJFRnktZFVmZyIsImlhdCI6MTcyMDc0NjI1NywiZXhwIjoxNzIwNzQ5ODU3fQ.CTtYy4ZP8umjBRPM3_mAApl5uCEvbXGDs6E_RDk3x655Ev6yigwl1cweh-3KajoqxrkatfVApUXvaersNoQV052QJdhHKc9cg6MlhL6Hf3wuWhFlwHdsNy7ENUYrxMk4cQRTnnsui7eyf3l7ffG-P4my-m-GmQ7A664J-ImCjW2avxP7Y6unQLPBiiOPhrZcQ6f-L_FH4McxncZXIkPKgstrwzQbRkoXGfulObmyp6OFOHFiTVQR6P5X1dCEnmmeiobvgwBYBdHltxPAkteBtXTvOVupbai7g5FWn5C12O4NHxQE3B6o8WCgoiUJc5k81PDMmJEcx4okuvgxdGctXA"
+	},
+	"activeProjects": {
+		"/usr/.@go/lab/repo/www/static/pcpp": "hl-pcpp",
+		"/home/go/.seacrit/hub/xwww": "imsohpink",
+		"/usr/.@go/lab/repo/www/temp": "juliafromohio",
+		"/usr/.@go/lab/repo/www/static/fluff": "allhaillordfluffy",
+		"/usr/.@go/lab/repo/www/static/capper": "c4pp3r"
+	},
+	"emulator-analytics-clientId": "dc1ec2be-a2b4-4f34-9cb3-2d0980ff2ab2",
+	"webconfig": {
+		"allhaillordfluffy": {
+			"projectId": "allhaillordfluffy",
+			"storageBucket": "allhaillordfluffy.appspot.com",
+			"apiKey": "AIzaSyBYdr0AIazpTOzzugqAN7F6gU2J1lgLVH4",
+			"authDomain": "allhaillordfluffy.firebaseapp.com",
+			"messagingSenderId": "167234298897"
+		},
+		"c4pp3r": {
+			"projectId": "c4pp3r",
+			"storageBucket": "c4pp3r.appspot.com",
+			"apiKey": "AIzaSyCtA5NHrzkITgsy9VNx17Gp3Auod-3Hs6E",
+			"authDomain": "c4pp3r.firebaseapp.com",
+			"messagingSenderId": "777709187818"
+		}
+	}
+}

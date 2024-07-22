@@ -1,0 +1,224 @@
+{
+   "About": {
+      "message": "About"
+   },
+   "Browser": {
+      "message": "Browser"
+   },
+   "BrowserName": {
+      "message": "Browser Name"
+   },
+   "BtnAdd": {
+      "message": "Add"
+   },
+   "BtnCancel": {
+      "message": "Cancel"
+   },
+   "BtnDelete": {
+      "message": "Delete"
+   },
+   "BtnDeleteConfirm": {
+      "message": "Are you sure you want to delete %NAME%?"
+   },
+   "BtnEdit": {
+      "message": "Edit"
+   },
+   "BtnReset": {
+      "message": "Reset"
+   },
+   "BtnResetDesc": {
+      "message": "Restore settings to their original defaults, as if you had just installed."
+   },
+   "BtnResetSettings": {
+      "message": "Reset Settings"
+   },
+   "BtnSave": {
+      "message": "Save"
+   },
+   "Default": {
+      "message": "Default"
+   },
+   "Device": {
+      "message": "Device"
+   },
+   "DeviceName": {
+      "message": "Device Name"
+   },
+   "Donate": {
+      "message": "Donate"
+   },
+   "DonateBitcoin": {
+      "message": "Donate with Bitcoin"
+   },
+   "DonateIt": {
+      "message": "Donate if you like"
+   },
+   "DonatePaypal": {
+      "message": "Donate with Paypal"
+   },
+   "DonateSend": {
+      "message": "please send donations to"
+   },
+   "DonateTxt": {
+      "message": "If this extension helped you, please consider contributing to its development."
+   },
+   "Feedback": {
+      "message": "Feedback"
+   },
+   "FollowMe": {
+      "message": "Follow me"
+   },
+   "HistoryNew": {
+      "message": "What's new"
+   },
+   "HistoryUpdate": {
+      "message": "Update History"
+   },
+   "MenuGeneral": {
+      "message": "General"
+   },
+   "MoreDetails": {
+      "message": "More details"
+   },
+   "OnlineWebTools": {
+      "message": "Online Webmaster Tools"
+   },
+   "Options": {
+      "message": "Options"
+   },
+   "PingTitle": {
+      "message": "Free Online Ping"
+   },
+   "Platform": {
+      "message": "Platform"
+   },
+   "PleaseEnter": {
+      "message": "Please enter %NAME%"
+   },
+   "PleaseSelect": {
+      "message": "Please select"
+   },
+   "Rate5Stars": {
+      "message": "Do you like this extension? Please \u003Ca href=\"%LINK%\" target=_blank>rate it\u003C/a> with 5 stars on the Chrome Web Store. Thank you! :-)"
+   },
+   "RateIt": {
+      "message": "Like this extension? Rate it!"
+   },
+   "Recommendation": {
+      "message": "Recommendation"
+   },
+   "Support": {
+      "message": "Support"
+   },
+   "Tool_GEOIP": {
+      "message": "Geolocation IP Location"
+   },
+   "Tool_GG_Key": {
+      "message": "Google Keyword Tool"
+   },
+   "Tool_GG_Trends": {
+      "message": "Google Trends"
+   },
+   "Tool_ScreenRes": {
+      "message": "Screen Resolution Statistics"
+   },
+   "Tool_UserAgent": {
+      "message": "HTTP User Agent Checker"
+   },
+   "Tool_W3C_LnkChk": {
+      "message": "W3C Link Checker"
+   },
+   "UACantEdit": {
+      "message": "The default User-Agent string of Chrome can't be edited."
+   },
+   "UAChangeJsUa": {
+      "message": "Do not change User-Agent in JavaScript ojects"
+   },
+   "UAChangeJsUaDesc": {
+      "message": "Do not change User-Agent string in JavaScript object \u003Ci>navigator.userAgent\u003C/i>. If checked this option, only HTTP headers will be changed."
+   },
+   "UACheck": {
+      "message": "Check User-Agent String"
+   },
+   "UADefautChrome": {
+      "message": "Default User-Agent of Chrome"
+   },
+   "UAExtDesc": {
+      "message": "Http User-Agent Switcher extension adds a menu on web page and a toolbar button to switch between user-agents on Chrome."
+   },
+   "UAExtDesc2": {
+      "message": "There are over 60 popular user-agent strings to choose from! Here is a simple list of included presets:"
+   },
+   "UAExtDesc3": {
+      "message": "\u003Cstrong>Browsers\u003C/strong>: Internet Explorer, Firefox, Safari, Opera and Microsoft Edge etc."
+   },
+   "UAExtDesc4": {
+      "message": "\u003Cstrong>Spiders\u003C/strong>: Baiduspider, Bingbot, Googlebot, Yahoo! Slurp and Yandexbot etc."
+   },
+   "UAExtDesc5": {
+      "message": "\u003Cstrong>Devices\u003C/strong>: Android, Blackberry, iPad, iPhone, Linux Desktop, Macintosh, Symbian Mobile, Windows Desktop, Windows Phone and Xbox etc."
+   },
+   "UAExtDesc6": {
+      "message": "You can also add your own custom User-Agents if you don't find what you are looking for."
+   },
+   "UAFlag": {
+      "message": "Indicator Flag"
+   },
+   "UAFlagLen": {
+      "message": "2~4 characters"
+   },
+   "UAGroup": {
+      "message": "Group by"
+   },
+   "UAGroupBrowser": {
+      "message": "Group by browser"
+   },
+   "UAGroupDev": {
+      "message": "Group by device"
+   },
+   "UAMangeGroup": {
+      "message": "Manage Groups"
+   },
+   "UAMangeUA": {
+      "message": "Manage User-Agents"
+   },
+   "UANameUA": {
+      "message": "User-Agent Name"
+   },
+   "UAString": {
+      "message": "User-Agent String"
+   },
+   "UASwitch": {
+      "message": "Switch User-Agent"
+   },
+   "VerInfo": {
+      "message": "Version %VER%, by %AUTHOR%"
+   },
+   "WebUtilities": {
+      "message": "Web Utilities"
+   },
+   "WebmasterTools": {
+      "message": "Webmaster Tools"
+   },
+   "Webmaster_Baidu": {
+      "message": "Baidu Webmaster Tools"
+   },
+   "Webmaster_Bing": {
+      "message": "Bing Webmaster Tools"
+   },
+   "Webmaster_Google": {
+      "message": "Google Webmaster Tools"
+   },
+   "Webmaster_SE": {
+      "message": "Webmaster resources of search engines"
+   },
+   "Webmaster_Yandex": {
+      "message": "Yandex Webmaster Tools"
+   },
+   "id": {
+      "message": "en"
+   },
+   "id_folder": {
+      "message": "en"
+   }
+}

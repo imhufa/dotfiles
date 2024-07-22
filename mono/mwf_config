@@ -1,0 +1,21 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="FileNames" type="string-array">
+      <string>/home/go/downloads/pk-ON3CDKTOX4DJTX3RCB4CR7SBVPD4YD33.pem</string>
+      <string>/home/go/downloads/cert-ON3CDKTOX4DJTX3RCB4CR7SBVPD4YD33.pem</string>
+      <string>/home/go/downloads/rsa-APKA47CRU4N45AWIKAFR.pem</string>
+      <string>/home/go/downloads/pk-APKA47CRU4N45AWIKAFR.pem</string>
+      <string>/home/go/images/icons/logo/awseducate.png</string>
+      <string>/home/go/images/logo/amazon.png</string>
+      <string>/home/go/images/logo/correlation-one.png</string>
+      <string>/usr/.@go/.box/.aws/acces_token_canvas</string>
+      <string>/home/go/downloads/recovery-codes.pdf</string>
+      <string>/home/go/images/icons/tryhackme.png</string>
+    </value>
+    <value name="Width" type="int">563</value>
+    <value name="LastFolder" type="string">/home/go/downloads</value>
+    <value name="Y" type="int">981</value>
+    <value name="Height" type="int">412</value>
+    <value name="X" type="int">2515</value>
+  </FileDialog>
+</MWFConfig>

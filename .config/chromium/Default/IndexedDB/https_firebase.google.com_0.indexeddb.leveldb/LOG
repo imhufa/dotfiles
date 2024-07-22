@@ -1,0 +1,7 @@
+2024/06/15-09:41:12.071 13ce6 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/15-09:41:12.072 13ce6 Recovering log #3
+2024/06/15-09:41:12.073 13ce6 Reusing old log /home/go/.config/chromium/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/000003.log 
+2024/06/15-09:52:58.144 13ce1 Level-0 table #5: started
+2024/06/15-09:52:58.176 13ce1 Level-0 table #5: 4296 bytes OK
+2024/06/15-09:52:58.202 13ce1 Delete type=0 #3
+2024/06/15-09:52:58.203 13ce1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

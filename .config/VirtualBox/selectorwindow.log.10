@@ -1,0 +1,20 @@
+00:00:04.765195 VirtualBox GUI VM Selector Window 6.1.50 r161033 linux.amd64 (Jan 11 2024 18:16:53) release log
+00:00:04.765199 Log opened 2024-07-21T19:34:53.839674000Z
+00:00:04.765200 Build Type: release
+00:00:04.765207 OS Product: Linux
+00:00:04.765208 OS Release: 6.5.0-0.deb12.4-amd64
+00:00:04.765209 OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.5.10-1~bpo12+1 (2023-11-23)
+00:00:04.765256 DMI Product Name: ASB20
+00:00:04.765268 DMI Product Version: V1.0
+00:00:04.765281 Firmware type: UEFI
+00:00:04.766780 Secure Boot: Disabled
+00:00:04.766882 Host RAM: 22972MB (22.4GB) total, 19747MB (19.2GB) available
+00:00:04.766889 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:04.766890 Process ID: 37471
+00:00:04.766891 Package type: LINUX_64BITS_DEBIAN_12_0
+00:00:04.766952 Qt version: 5.15.8
+00:00:04.840879 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.826293 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1080x1920
+00:00:05.842392 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1080x480 x 3440x1440
+00:00:06.036150 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:22:24.403832 GUI: UIMediumEnumerator: Medium-enumeration finished!

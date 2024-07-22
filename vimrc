@@ -3,6 +3,8 @@ set softtabstop=0 noexpandtab
 set shiftwidth=4
 set autoindent
 
+syntax on
+
 function UseTabs()
   set tabstop=4		" size of a hard tabstop (ts).
   set shiftwidth=4	" size of an indentation (sw).

@@ -1,0 +1,1 @@
+Start-Process -PassThru pwsh -ExecutionPolicy Bypass

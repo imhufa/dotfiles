@@ -1,0 +1,6 @@
+*log
+oh-my-zsh
+*.ignore
+logs/
+
+debug.log

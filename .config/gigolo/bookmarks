@@ -1,0 +1,11 @@
+[hufa on 10.0.0.1]
+host=10.0.0.1
+folder=BETANAS/hufalab
+user=hufa
+scheme=ftp
+share=
+domain=
+path=
+color=rgb(207,139,176)
+port=21
+autoconnect=1

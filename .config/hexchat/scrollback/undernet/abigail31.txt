@@ -1,0 +1,7 @@
+T 1717892412 20<ajabroni>30	hello?
+T 1718450396 20<ajabroni>30 hello!
+T 1718450417 18<abigail31> hi
+T 1718450468 20<ajabroni>30 awesome a reply! (new to irc 2nd day) how are you?
+T 1718450501 FiSHLiM plugin unloaded
+T 1718450632 20<ajabroni>30 i accidentally closed the irc client:(
+T 1718451717 24* abigail31 has quit (Quit)

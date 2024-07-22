@@ -1,0 +1,6 @@
+2024/06/28-20:02:50.379 5839c Reusing MANIFEST /home/go/.config/ArmCord/Local Storage/leveldb/MANIFEST-000001
+2024/06/28-20:02:50.381 5839c Recovering log #6
+2024/06/28-20:02:50.381 5839c Reusing old log /home/go/.config/ArmCord/Local Storage/leveldb/000006.log 
+2024/06/28-20:14:19.554 5839d Level-0 table #10: started
+2024/06/28-20:14:19.601 5839d Level-0 table #10: 31085 bytes OK
+2024/06/28-20:14:19.642 5839d Delete type=0 #6

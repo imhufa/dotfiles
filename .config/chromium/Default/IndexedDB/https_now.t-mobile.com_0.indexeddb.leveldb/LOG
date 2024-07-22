@@ -1,0 +1,6 @@
+2024/06/07-02:29:08.720 d8a8 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_now.t-mobile.com_0.indexeddb.leveldb since it was missing.
+2024/06/07-02:29:08.929 d8a8 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_now.t-mobile.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-02:32:37.778 d8a9 Level-0 table #5: started
+2024/06/07-02:32:37.818 d8a9 Level-0 table #5: 9337 bytes OK
+2024/06/07-02:32:37.840 d8a9 Delete type=0 #3
+2024/06/07-02:32:37.841 d8ab Manual compaction at level-0 from (begin) .. (end); will stop at (end)
