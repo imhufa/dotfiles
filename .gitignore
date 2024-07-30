@@ -1,8 +1,10 @@
 *log
-oh-my-zsh
 *.ignore
-logs/
+*.info
+*.lock
 
 debug.log
 scripts/hwaget.sh
 
+oh-my-zsh
+logs/

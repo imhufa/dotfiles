@@ -1,3 +1,12 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+</head>
+</html>
+dotfiles
+---------
+<pre>
 .
 ├── atom
 ├── bash_aliases
@@ -14,9 +23,7 @@
 ├── mplayer
 ├── mutt
 ├── muttrc
-├── oh-my-zsh
 ├── Pipfile
-├── Pipfile.lock
 ├── profile
 ├── rc.local
 ├── README.md
@@ -24,9 +31,11 @@
 ├── ssh_config
 ├── sshd_config
 ├── tmux.conf
+├── TODO.md
 ├── torrc
 ├── torsocks.conf
-├── tree
+├── tree2.md
+├── tree3.md
 ├── tree.md
 ├── vimrc
 ├── vscode
@@ -37,4 +46,7 @@
 ├── xorg.conf
 ├── zshenv
 └── zshrc
+</pre>
+
+<i><b>[updated]:</b> 07.30.2024</i>
 

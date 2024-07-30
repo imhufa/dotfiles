@@ -1,13 +1,27 @@
-# self-edu: dotfiles/repos/linux
+TBD
+=======
+>
+> #### self-educating my peanut brain
+> ###### _with what?_
 
-## first commit of homelab linux distro dotfiles
+<pre>
+<b>relative to this repo:</b>
+	> bash
+> scripting
+			> cli
+	> dotfiles
+> repos
+		> cloud
+			> linux
+					> remoting
+		> ssh
+	> vms
+				> sysadmin
+		[ etc ... ]
+</pre>
 
-### TBD
-
-***update:*** **07/22/2024**
-```
-$HOME/dotfiles
-.
+<pre>
+<b>.dotfiles</b>
 ├── atom
 ├── bash_aliases
 ├── bash_profile
@@ -23,9 +37,7 @@ $HOME/dotfiles
 ├── mplayer
 ├── mutt
 ├── muttrc
-├── oh-my-zsh
 ├── Pipfile
-├── Pipfile.lock
 ├── profile
 ├── rc.local
 ├── README.md
@@ -33,9 +45,11 @@ $HOME/dotfiles
 ├── ssh_config
 ├── sshd_config
 ├── tmux.conf
+├── TODO.md
 ├── torrc
 ├── torsocks.conf
-├── tree
+├── tree2.md
+├── tree3.md
 ├── tree.md
 ├── vimrc
 ├── vscode
@@ -46,5 +60,12 @@ $HOME/dotfiles
 ├── xorg.conf
 ├── zshenv
 └── zshrc
-```
+</pre>
+<br>
+<br>
+<br>
+<br>
+<pre>
+							<i><b>[updated]:</b> 07.30.2024</i>
+</pre>
 
