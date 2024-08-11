@@ -113,3 +113,9 @@ if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/.
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc'; fi
+
+if [[ -n $ECHO_DATE ]]; then
+	export ECHO_DATE=$(date +%m/%d)
+else
+	export ECHO_DATE=$(date +%m/%d)
+fi

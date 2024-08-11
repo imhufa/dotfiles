@@ -1,0 +1,19 @@
+{
+    "remote.SSH.remotePlatform": {
+        "sandbox.9qq9s5.csb": "linux"
+    }
+	"terminal.integrated.shellArgs.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"overrideName": true,
+			"icon": "terminal-powershell",
+			// ---
+			// "env": {
+			// 	"TEST_VAR": "value"
+			// },
+			// ---
+			"args": [ "-ExecutionPolicy", "ByPass"]
+		}
+},
+"terminal.integrated.defaultProfile.windows": "PowerShell",
+

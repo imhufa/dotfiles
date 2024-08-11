@@ -1,0 +1,10 @@
+#!/usr/bin/zsh
+
+if [[ -n $ECHO_DATE ]]; then
+	zsh $HOME/.scripts/echo/echo-date-log.sh
+else
+	zsh $HOME/.scripts/echo/echo-date-log.sh
+fi
+
+echo $ECHO_DATE' environment variables loaded'
+

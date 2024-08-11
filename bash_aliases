@@ -61,3 +61,6 @@ alias golistscripts='. ~/.scripts/listscripts.sh'
 alias la='ls -la'
 alias ll='ls -a1'
 
+
+### JUST ADDED
+
