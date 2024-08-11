@@ -119,3 +119,14 @@ if [[ -n $ECHO_DATE ]]; then
 else
 	export ECHO_DATE=$(date +%m/%d)
 fi
+
+if [ -f /home/go/.scripts/login/login.sh ]; then
+	zsh $HOME/.scripts/login/login.sh
+else
+	echo 'login script not done.'
+fi
+
+source /home/go/dotfiles/bash_aliases
+#source /home/go/dotfiles/bash_export
+source /home/go/dotfiles/envrc
+

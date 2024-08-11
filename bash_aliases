@@ -51,8 +51,8 @@ alias goupdist='sudo apt-get dist-upgrade -y'
 
 ### info
 ## ip
-gomyip='curl http://icanhazip.com'
-gomyips='curl https://icanhazip.com'
+alias gomyip='curl http://icanhazip.com'
+alias gomyips='curl https://icanhazip.com'
 
 ### scripts
 alias golistscripts='. ~/.scripts/listscripts.sh'
@@ -63,4 +63,5 @@ alias ll='ls -a1'
 
 
 ### JUST ADDED
+alias echormLine='echo -n "Enter Path: ";read echormLine && sed -i "$ d" $echormLine'
 
