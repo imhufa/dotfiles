@@ -4,12 +4,12 @@
 *.lock
 *.bak
 *.tbd
-./.gitignore
+.gitignore
 scripts/hwaget.sh
 oh-my-zsh
-./logs
+logs
 bak
 xdg
-./vscode-oss
+vscode-oss
 *autostart
 
