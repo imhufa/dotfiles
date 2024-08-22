@@ -4,16 +4,12 @@
 *.lock
 *.bak
 *.tbd
-
 .gitignore
-debug.log
 scripts/hwaget.sh
-
 oh-my-zsh
 logs
 bak
 xdg
 vscode-oss
-
 *autostart
 
