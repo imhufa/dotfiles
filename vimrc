@@ -21,3 +21,5 @@ function UseSpaces()
   set smarttab		" insert blank spaces on a <tab> key.
 endfunction
 
+cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
+

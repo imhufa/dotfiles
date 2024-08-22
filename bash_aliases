@@ -27,15 +27,17 @@ alias zgrep='zgrep --color=auto'
 ### custom
 ## commands
 # perm -r 755
-alias chmodsffr='sudo chmod -R 755'
-# perm -r 4755
-alias chmodsysff='sudo chmod -R 755'
-# perm 755
-alias chmodsff='sudo chmod 755'
+alias gochmodallr='sudo chmod -R 755'
+alias gochmodall='sudo chmod 755 ./*'
+alias gochmodx='sudo chmod +x'
+alias gochmodxall='sudo chmod +x ./*'
+alias gochmodxr='sudo chmod -R +x'
+alias gochmodsysr='sudo chmod -R 4755'
+alias gochmodsys='sudo chmod 4755'
 
 ## me is you
 # vim is nvim
-alias vim=nvim
+alias vim='nvim'
 
 ## apt
 # update
@@ -51,11 +53,10 @@ alias goupdist='sudo apt-get dist-upgrade -y'
 
 ### info
 ## ip
-alias gomyip='curl http://icanhazip.com'
-alias gomyips='curl https://icanhazip.com'
+alias gomyip='. $HOME/.scripts/query-ip.sh'
 
 ### scripts
-alias golistscripts='. ~/.scripts/listscripts.sh'
+alias golistscripts='. $HOME/dotfiles/scripts/listscripts.sh'
 
 ### command args
 alias la='ls -la'
@@ -64,4 +65,16 @@ alias ll='ls -a1'
 
 ### JUST ADDED
 alias echormLine='echo -n "Enter Path: ";read echormLine && sed -i "$ d" $echormLine'
+alias gogetdate='zsh $HOME/.scripts/godate.sh'
+## 08.28
+alias gosetsocks='. $HOME/.proxy/socks5.sh'
+alias gosethttp='. $HOME/.proxy/http-s.sh'
+alias goqproxy='. $HOME/.proxy/query-proxy.sh'
+alias goclearnet='. $HOME/.proxy/unset-proxy.sh'
+alias gosetaptip='export GO_APT_PROXY="1";wait; echo $GO_APT_PROXY'
+alias gounsetaptip='unset GO_APT_PROXY'
+alias goaptproxy='. $HOME/.proxy/apt-proxy.sh'
+alias gofixdisplay='. $HOME/.screenlayout/fix-display.sh'
+alias gotimedate='. $HOME/.scripts/clock.sh'
+alias goupalias='. $HOME/.bash_aliases'
 

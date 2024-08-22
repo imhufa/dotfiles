@@ -8,3 +8,8 @@ scripts/hwaget.sh
 
 oh-my-zsh
 logs/
+xdg
+
+*autostart
+
+*vscode-oss*

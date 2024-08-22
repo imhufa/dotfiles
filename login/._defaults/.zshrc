@@ -95,22 +95,28 @@ export ARCHFLAGS="-arch x86_64"
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-
-## custom ##
-if [ -f '$HOME/.bash_aliases' ]; then
-	. '$HOME/.bash_aliases';
-fi
-
-## alias ##
+#
+# Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-# alias vim='nvim'
 
-## path ##
+# custom
+if [ -f $HOME/.bash_aliases ]; then
+	. $HOME/.bash_aliases
+fi
 
-# google cloud sdk
+alias vim='nvim'
+
+
+# The next line updates PATH for the Google Cloud SDK.
 if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc'; fi
 
-# gcloud [shell command completion]
+# The next line enables shell command completion for gcloud.
 if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc'; fi
+
+if [[ -n $ECHO_DATE ]]; then
+	export ECHO_DATE=$(date +%m/%d)
+else
+	export ECHO_DATE=$(date +%m/%d)
+fi
 
