@@ -4,16 +4,17 @@
 *.info
 *.lock
 *.bak
+*.tbd
 
 debug.log
 scripts/hwaget.sh
 
 oh-my-zsh
-logs/
-bak/
+logs
+bak
 xdg
-login/tbd_*
+login/._defaults
+vscode-oss
 
 *autostart
 
-*vscode-oss
