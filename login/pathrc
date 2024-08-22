@@ -1,0 +1,14 @@
+#!/usr/bin/zsh
+
+if [ -n "$PATH" ]; then
+	PATH='/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games';export PATH
+else
+	PATH='/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games';export PATH
+fi
+wait;echo -e 'reset.\n  '$PATH
+
+if [ -f $HOME"/.bash_export" ]; then
+	. $HOME'/.bash_export';
+fi
+wait;echo -e 'done.\n  '$PATH
+

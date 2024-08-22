@@ -97,20 +97,26 @@ export ARCHFLAGS="-arch x86_64"
 # For a full list of active aliases, run `alias`.
 
 ## custom ##
-if [ -f '$HOME/.bash_aliases' ]; then
-	. '$HOME/.bash_aliases';
+if [ -f "$HOME/.bash_aliases" ]; then
+	. $HOME/.bash_aliases;
 fi
 
+## path ##
+if [ -f "$HOME/.bash_path" ]; then
+	. $HOME/.bash_path;
+fi
+wait
+
+# google cloud sdk
+if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc'; fi
+wait
+
+# gcloud [shell command completion]
+if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc'; fi
+wait
+
+### tbd ###
 ## alias ##
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # alias vim='nvim'
-
-## path ##
-
-# google cloud sdk
-if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc'; fi
-
-# gcloud [shell command completion]
-if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc'; fi
-

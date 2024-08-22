@@ -1,0 +1,34 @@
+#!/usr/bin/zsh
+
+# default path
+# /usr/local/bin:/usr/bin:/usr/local/game:/usr/games
+
+# add path
+if [ -d "$HOME/go" ]; then
+	export PATH="$HOME/go:$PATH"
+fi
+
+if [ -d "$HOME/go" ]; then
+	export PATH="$HOME/go/bin:$PATH"
+fi
+
+if [ -d "$HOME/bin" ]; then
+	PATH="$HOME/bin:$PATH"
+fi
+
+if [ -d "$HOME/.local/bin" ]; then
+	PATH="$HOME/.local/bin:$PATH"
+fi
+
+if [ -d "$HOME/.cargo/bin" ]; then
+	PATH="$HOME/.cargo/bin:$PATH"
+fi
+
+if [ -d "$HOME/.scripts" ]; then
+	PATH="$HOME/.scripts:$PATH"
+fi
+
+if [ -d "$HOME/.guix-profile/bin" ]; then
+	PATH="$HOME/.guix-profile/bin:$PATH"
+fi
+

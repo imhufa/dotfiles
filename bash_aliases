@@ -62,11 +62,15 @@ alias golistscripts='. $HOME/dotfiles/scripts/listscripts.sh'
 alias la='ls -la'
 alias ll='ls -a1'
 
+### TBD
+##
+# alias ohmyzsh='mate $HOME/.oh-my-zsh'
 
 ### JUST ADDED
 alias echormLine='echo -n "Enter Path: ";read echormLine && sed -i "$ d" $echormLine'
 alias gogetdate='zsh $HOME/.scripts/godate.sh'
-## 08.28
+#
+## v8.21
 alias gosetsocks='. $HOME/.proxy/socks5.sh'
 alias gosethttp='. $HOME/.proxy/http-s.sh'
 alias goqproxy='. $HOME/.proxy/query-proxy.sh'
@@ -77,4 +81,8 @@ alias goaptproxy='. $HOME/.proxy/apt-proxy.sh'
 alias gofixdisplay='. $HOME/.screenlayout/fix-display.sh'
 alias gotimedate='. $HOME/.scripts/clock.sh'
 alias goupalias='. $HOME/.bash_aliases'
+#
+## v8.22
+alias sourcegozsh='. $HOME/.zshrc'
+alias sourcegoalias='. $HOME/.bash_aliases'
 
