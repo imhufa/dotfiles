@@ -1,9 +1,9 @@
+.gitignore
 *log
 *.ignore
 *.info
 *.lock
 *.bak
-.tbd_*
 
 debug.log
 scripts/hwaget.sh
@@ -12,7 +12,8 @@ oh-my-zsh
 logs/
 bak/
 xdg
+login/tbd_*
 
 *autostart
 
-*vscode-oss*
+*vscode-oss
