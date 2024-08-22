@@ -2,6 +2,7 @@
 *.ignore
 *.info
 *.lock
+tbd_*
 
 debug.log
 scripts/hwaget.sh
