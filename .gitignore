@@ -2,13 +2,15 @@
 *.ignore
 *.info
 *.lock
-tbd_*
+*.bak
+.tbd_*
 
 debug.log
 scripts/hwaget.sh
 
 oh-my-zsh
 logs/
+bak/
 xdg
 
 *autostart
