@@ -85,4 +85,5 @@ alias goupalias='. $HOME/.bash_aliases'
 ## v8.22
 alias sourcegozsh='. $HOME/.zshrc'
 alias sourcegoalias='. $HOME/.bash_aliases'
+ohmyzsh="$HOME/dotfiles/oh-my-zsh"
 

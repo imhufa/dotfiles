@@ -1,19 +1,40 @@
 [General]
-Recent Urls[$e]=file:$HOME/Desktop/yt/2/rm0001.mp4,file:$HOME/Desktop/yt/2/massage0004.mp4,file:$HOME/Desktop/yt/2/gyno0001.mp4,file:$HOME/Desktop/yt/2/step0001.mp4,file:$HOME/Desktop/yt/2/cuck0001.mp4,file:$HOME/Desktop/yt/2/cow0001.mp4,file:$HOME/Desktop/yt/2/step0002.mp4,file:$HOME/Desktop/yt/2/vixen0001.mp4,file:$HOME/Desktop/yt/2/0001-2.mp4,file:$HOME/Desktop/yt/2/sis0001.mp4
+Recent Urls[$e]=file:$HOME/Desktop/yt/2/rm0001.mp4,file:$HOME/Desktop/yt/2/massage0004.mp4,file:$HOME/Desktop/yt/2/gyno0001.mp4,file:$HOME/Desktop/yt/2/step0001.mp4,file:$HOME/Desktop/yt/2/cuck0001.mp4,file:$HOME/Desktop/yt/2/cow0001.mp4,file:$HOME/Desktop/yt/2/step0002.mp4,file:$HOME/Desktop/yt/2/vixen0001.mp4,file:$HOME/Desktop/yt/2/0001-2.mp4,file:$HOME/Desktop/yt/1/01.mp4,file:$HOME/Desktop/yt/2/sis0001.mp4,file:$HOME/Desktop/hubtoo/ph/3.mp4
 TimeFormat=1
-Volume=1
+Volume=0
 
 [MainWindow]
-2 screens: Height=235
-2 screens: Width=657
-2 screens: XPosition=2052
-2 screens: YPosition=738
+2 screens: Height=1194
+2 screens: Width=2647
+2 screens: XPosition=1271
+2 screens: YPosition=547
 HDMI-A-0 HDMI-A-1=HDMI-A-0
-State=AAAA/wAAAAD9AAAAAgAAAAAAAADEAAAAofwCAAAAAfsAAAASAGwAZQBmAHQAXwBkAG8AYwBrAAAAADIAAAChAAAAAAAAAAAAAAABAAAASgAABaD8AgAAAAH7AAAAFgB2AG8AbAB1AG0AZQBfAGQAbwBjAGsAAAAAAAAABaAAAAAAAAAAAAAAApEAAAChAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAgAAAAAAAADEAAAAofwCAAAAAfsAAAASAGwAZQBmAHQAXwBkAG8AYwBrAAAAADIAAAChAAAAAAAAAAAAAAABAAAASgAABaD8AgAAAAH7AAAAFgB2AG8AbAB1AG0AZQBfAGQAbwBjAGsAAAAAAAAABaAAAAAAAAAAAAAAClcAAAR+AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Shortcut Schemes]
 Current Scheme=Default
+
+[file:///home/go/Desktop/hubtoo/ph/3.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,8,22
+Hue=0
+IsVideo=true
+Position=697423
+Preferred Size=2647,1150
+Saturation=0
+
+[file:///home/go/Desktop/yt/1/01.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,7,5
+Hue=0
+IsVideo=true
+Position=134674
+Saturation=0
 
 [file:///home/go/Desktop/yt/2/0001-2.mp4]
 AudioChannel=2
@@ -85,11 +106,11 @@ Saturation=0
 AudioChannel=2
 Brightness=0
 Contrast=0
-Date=2024,6,26
+Date=2024,7,5
 Hue=0
 IsVideo=true
-Position=610924
-Preferred Size=657,161
+Position=413174
+Preferred Size=3440,1366
 Saturation=0
 
 [file:///home/go/Desktop/yt/2/step0001.mp4]

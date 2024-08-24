@@ -1,27 +1,43 @@
-# ~/.profile: executed by the command interpreter for login shells.
-# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
-# exists.
-# see /usr/share/doc/bash/examples/startup-files for examples.
-# the files are located in the bash-doc package.
+### profile ###
 
-# the default umask is set in /etc/profile; for setting the umask
-# for ssh logins, install and configure the libpam-umask package.
-#umask 022
+# bash
+if [ -f "$HOME/.scripts/motd.sh" ]; then
+	. "$HOME/.scripts/motd.sh"
+fi
 
-# if running bash
 if [ -n "$BASH_VERSION" ]; then
-    # include .bashrc if it exists
     if [ -f "$HOME/.bashrc" ]; then
-	. "$HOME/.bashrc"
+	. "$HOME/.bashrc";wait
     fi
 fi
 
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/bin" ] ; then
-    PATH="$HOME/bin:$PATH"
+# zsh
+if [ -n $ZSH_VERSION ]; then
+	if [ -f "$HOME/.zshrc" ]; then
+		. "$HOME/.zshrc"; wait
+	fi
 fi
 
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/.local/bin" ] ; then
-    PATH="$HOME/.local/bin:$PATH"
+# display
+if [ -n "$DISPLAY_FIXED" ]; then
+	echo 'display fixed.'
+else
+	. "$HOME/.screenlayout/display_fixed.sh"; wait
 fi
+
+if [ -n "$DISPLAY_FIXED" ]; then
+	echo 'screenlayout fixed.'
+else
+	. "$HOME/.screenlayout/fix-display.sh"; wait
+fi
+
+# autorun
+
+if [ -n $USER ]; then
+	if [ -f "$HOME/.scripts/source.sh" ]; then
+		. "$HOME/.scripts/source.sh"; wait
+	else
+		echo 'error: check source.'
+	fi
+fi
+
