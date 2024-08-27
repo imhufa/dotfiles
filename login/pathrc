@@ -1,0 +1,28 @@
+#!/usr/bin/zsh
+
+# default path
+if [ -n "$PATH" ]; then
+	PATH='/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games';export PATH
+else
+	PATH='/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games';export PATH
+fi
+
+# guix
+# if [ -d "/var/guix/profiles/per-user/go/guix-profile" ]; then
+#	PATH="/var/guix/profiles/per-user/go/guix-profile/bin:$PATH";
+# fi
+if [ -d "$HOME/.guix-profile/bin" ]; then
+	PATH="$HOME/.guix-profile/bin:$PATH";
+fi
+
+# google cloud sdk
+if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc' ]; then
+	. '/usr/.@go/lab/repo/sdk/google-cloud-sdk/path.zsh.inc';
+fi; wait
+
+
+# gcloud [shell command completion]
+if [ -f '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc' ]; then
+	. '/usr/.@go/lab/repo/sdk/google-cloud-sdk/completion.zsh.inc';
+fi; wait
+

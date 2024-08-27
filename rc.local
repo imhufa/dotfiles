@@ -1,0 +1,7 @@
+### path: /etc/init.d/rc.local
+
+for index in $(seq 1 6)
+do
+		setterm -blank 0 -powersown 0 -powersave off > /dev/tty${index}
+done
+

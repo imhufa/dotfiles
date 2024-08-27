@@ -1,0 +1,5 @@
+T 1719616221 19* Now talking on 22#helpdesk
+T 1719616221 22* Topic for 22#helpdesk is: Welcome. If you need help just ask and wait patiently for an answer.
+T 1719616221 22* Topic for 22#helpdesk set by 26X (24Fri Jun 28 15:49:07 2024)
+T 1719616249 20<AJabroniWith>30 hello helpdesk
+T 1719616336 FiSHLiM plugin unloaded

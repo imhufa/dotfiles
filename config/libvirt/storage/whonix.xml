@@ -1,0 +1,19 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit whonix
+or other application using the libvirt API.
+-->
+
+<pool type='dir'>
+  <name>whonix</name>
+  <uuid>8984ca2c-b78d-40b1-b6ac-018294dff53c</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+  </source>
+  <target>
+    <path>/mnt/spusb/vm</path>
+  </target>
+</pool>

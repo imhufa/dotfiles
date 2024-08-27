@@ -1,0 +1,1 @@
+Invoke-Command -RunAsAdministrator .\beta.ps1 Set-ExecutionPolicy Bypass -Scope Process -Force

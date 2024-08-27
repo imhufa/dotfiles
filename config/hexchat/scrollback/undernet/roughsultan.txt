@@ -1,0 +1,7 @@
+T 1718457503 18<RoughSultan> hello there
+T 1718457617 20<ajabroni>30 hii!
+T 1718457678 18<RoughSultan> how are you?
+T 1718457745 20<ajabroni>30 good! how about yourself?
+T 1718457879 18<RoughSultan> splendid thanks, where are you from?
+T 1718457900 20<ajabroni>30 the usa. how abnout you?
+T 1718458246 24* RoughSultan has quit (Read error: Connection reset by peer)

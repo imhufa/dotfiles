@@ -1,0 +1,224 @@
+{
+   "About": {
+      "message": "關於"
+   },
+   "Browser": {
+      "message": "瀏覽器"
+   },
+   "BrowserName": {
+      "message": "瀏覽器名稱"
+   },
+   "BtnAdd": {
+      "message": "添加"
+   },
+   "BtnCancel": {
+      "message": "取消"
+   },
+   "BtnDelete": {
+      "message": "刪除"
+   },
+   "BtnDeleteConfirm": {
+      "message": "你確定要刪除 %NAME% 嗎?"
+   },
+   "BtnEdit": {
+      "message": "編輯"
+   },
+   "BtnReset": {
+      "message": "重設"
+   },
+   "BtnResetDesc": {
+      "message": "將設定還原成原始預設值，回到初始安裝狀態。"
+   },
+   "BtnResetSettings": {
+      "message": "重設設定"
+   },
+   "BtnSave": {
+      "message": "保存"
+   },
+   "Default": {
+      "message": "默認"
+   },
+   "Device": {
+      "message": "裝置"
+   },
+   "DeviceName": {
+      "message": "裝置名稱"
+   },
+   "Donate": {
+      "message": "捐款"
+   },
+   "DonateBitcoin": {
+      "message": "使用 Bitcoin 捐款"
+   },
+   "DonateIt": {
+      "message": "喜歡它？歡迎捐款"
+   },
+   "DonatePaypal": {
+      "message": "使用 Paypal 捐款"
+   },
+   "DonateSend": {
+      "message": "請發送到下列地址"
+   },
+   "DonateTxt": {
+      "message": "如果這個擴充功能能幫助到你，歡迎捐款贊助開發者。"
+   },
+   "Feedback": {
+      "message": "Feedback"
+   },
+   "FollowMe": {
+      "message": "關注我"
+   },
+   "HistoryNew": {
+      "message": "最近更新"
+   },
+   "HistoryUpdate": {
+      "message": "更新歷史"
+   },
+   "MenuGeneral": {
+      "message": "常規設定"
+   },
+   "MoreDetails": {
+      "message": "更多詳情"
+   },
+   "OnlineWebTools": {
+      "message": "線上站長工具"
+   },
+   "Options": {
+      "message": "設定"
+   },
+   "PingTitle": {
+      "message": "免費 Ping 測速"
+   },
+   "Platform": {
+      "message": "平台"
+   },
+   "PleaseEnter": {
+      "message": "請輸入 %NAME%"
+   },
+   "PleaseSelect": {
+      "message": "請選擇"
+   },
+   "Rate5Stars": {
+      "message": "喜歡這個擴充功能嗎？請在Google 線上應用商店給它\u003Ca href=\"%LINK%\" target=_blank>打個五星評價\u003C/a> 吧，非常謝謝！:-)"
+   },
+   "RateIt": {
+      "message": "喜歡這個擴充功能? 請給它五星評分吧!"
+   },
+   "Recommendation": {
+      "message": "推薦"
+   },
+   "Support": {
+      "message": "技術支持"
+   },
+   "Tool_GEOIP": {
+      "message": "IP 地理位置查詢"
+   },
+   "Tool_GG_Key": {
+      "message": "Google 關鍵詞工具"
+   },
+   "Tool_GG_Trends": {
+      "message": "Google 搜尋趨勢"
+   },
+   "Tool_ScreenRes": {
+      "message": "螢幕分辨率檢查和統計"
+   },
+   "Tool_UserAgent": {
+      "message": "Http User-Agent 檢查"
+   },
+   "Tool_W3C_LnkChk": {
+      "message": "W3C 連結檢查"
+   },
+   "UACantEdit": {
+      "message": "Chrome 瀏覽器的原始預設User-Agent string 不能被編輯。 "
+   },
+   "UAChangeJsUa": {
+      "message": "不要改變 JavaScript objects 中的 User-Agent 內容。"
+   },
+   "UAChangeJsUaDesc": {
+      "message": "不要改變 JavaScript objects 中 \u003Ci>navigator.userAgent\u003C/i> 的 User-Agent 內容。如果此選項被選中，那麼僅改變HTTP headers 中的内容。"
+   },
+   "UACheck": {
+      "message": "檢查 User-Agent String"
+   },
+   "UADefautChrome": {
+      "message": "Chrome 瀏覽器的原始預設 User-Agent"
+   },
+   "UAExtDesc": {
+      "message": "Http User-Agent Switcher 擴充提供網頁快捷功能表,以及工具列按鈕方式快捷切換 Chrome 瀏覽器的 Http User-Agent String。 "
+   },
+   "UAExtDesc2": {
+      "message": "擴充預先定義了多達超過 60 種基於不同瀏覽器和裝置的 User-agents 供你選擇！下面是一份簡單的列表:"
+   },
+   "UAExtDesc3": {
+      "message": "\u003Cstrong>瀏覽器\u003C/strong>: Internet Explorer, Firefox, Safari, Opera, Microsoft Edge 等。"
+   },
+   "UAExtDesc4": {
+      "message": "\u003Cstrong>搜索引擎蜘蛛\u003C/strong>: Baiduspider, Bingbot, Googlebot, Yahoo! Slurp, Yandexbot 等。"
+   },
+   "UAExtDesc5": {
+      "message": "\u003Cstrong>裝置\u003C/strong>: Android, Blackberry, iPad, iPhone, Linux 桌面, Macintosh, Symbian 手機, Windows 桌面, Windows Phone, Xbox 等。"
+   },
+   "UAExtDesc6": {
+      "message": "同時，Http User-Agent Switcher 也支持用戶定義自己的 User-Agent。"
+   },
+   "UAFlag": {
+      "message": "標識符"
+   },
+   "UAFlagLen": {
+      "message": "2~4 個字元"
+   },
+   "UAGroup": {
+      "message": "分組方式"
+   },
+   "UAGroupBrowser": {
+      "message": "按瀏覽器類別分組"
+   },
+   "UAGroupDev": {
+      "message": "按裝置類別分組"
+   },
+   "UAMangeGroup": {
+      "message": "分組管理"
+   },
+   "UAMangeUA": {
+      "message": "User-Agent 管理"
+   },
+   "UANameUA": {
+      "message": "User-Agent 名稱"
+   },
+   "UAString": {
+      "message": "User-Agent String 內容"
+   },
+   "UASwitch": {
+      "message": "切換 User-Agent"
+   },
+   "VerInfo": {
+      "message": "版本: %VER%, 開發者: %AUTHOR%"
+   },
+   "WebUtilities": {
+      "message": "在線實用工具"
+   },
+   "WebmasterTools": {
+      "message": "站長工具"
+   },
+   "Webmaster_Baidu": {
+      "message": "百度站長平台"
+   },
+   "Webmaster_Bing": {
+      "message": "Bing 網站管理員工具"
+   },
+   "Webmaster_Google": {
+      "message": "Google 網站管理員工具"
+   },
+   "Webmaster_SE": {
+      "message": "各大搜尋引擎提供的站長工具"
+   },
+   "Webmaster_Yandex": {
+      "message": "Yandex 網站管理員工具"
+   },
+   "id": {
+      "message": "zh-tw"
+   },
+   "id_folder": {
+      "message": "zh_TW"
+   }
+}

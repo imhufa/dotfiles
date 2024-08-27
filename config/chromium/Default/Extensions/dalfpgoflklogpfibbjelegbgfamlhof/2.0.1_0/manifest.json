@@ -1,0 +1,35 @@
+{
+   "background": {
+      "scripts": [ "js/settings.js", "js/public.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "image/logo-19.png",
+         "38": "image/logo-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Http User-Agent Switcher"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_UAExtDesc__",
+   "icons": {
+      "128": "image/logo-128.png",
+      "32": "image/logo-32.png",
+      "48": "image/logo-48.png",
+      "64": "image/logo-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAivpfUteFP6uZNHqmsQJYQMC5Yhjo628wFgMXL765bZSzH2Q2vNYqYszwsKqf9RaQnMWsONljnhHoS0Q+IwJ0kdZ5lSSHrCvCP/f3f8AZYdFfDFurGgGkrcJsnOS4bMZWEnhlotHyKtRCxhYHN7bKW0D5BjhvB2MKZLinG75jxFpO+mRjh8OfnxbVRgcONMfn+sZ/wktEfmBMV2BtNcC0EeNbEiqiubIJLlnzyB+eKVewPjOQ2jMJCpExudM/PGqledj6BUUIh7q66K4vNKF+9K2cQOWgSAZEitF2B70NCBN9g4oBCNYipLmhuYZ0EkclwoJ17LLReuGDkyx958GkuQIDAQAB",
+   "manifest_version": 2,
+   "name": "Http User-Agent Switcher",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*", "contextMenus", "webRequest", "webRequestBlocking" ],
+   "short_name": "Http User-Agent Switcher",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.1",
+   "web_accessible_resources": [ "js/content.js" ]
+}

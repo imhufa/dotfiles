@@ -1,0 +1,167 @@
+<!-- =====================================================================  -->
+<!-- This file contains AbiSuite Preferences.  AbiSuite is a suite of Open  -->
+<!-- Source desktop applications developed by AbiSource, Inc.  Information  -->
+<!-- about this application can be found at http://www.abisource.com        -->
+<!-- You should not edit this file by hand.                                 -->
+<!-- =====================================================================  -->
+
+<!--         Build_ID          = unknown -->
+<!--         Build_Version     = 3.0.5 -->
+<!--         Build_CompileTime = 18:35:04 -->
+<!--         Build_CompileDate = Sep 11 2022 -->
+
+<AbiPreferences app="abiword" ver="1.0">
+
+	<Select
+	    scheme="_custom_"
+	    autosaveprefs="1"
+	    useenvlocale="1"
+	/>
+
+	<!-- The following scheme, _builtin_, contains the built-in application
+	**** defaults and adjusted by the installation system defaults.  This scheme
+	**** is only written here as a reference.  Any schemes following this one
+	**** only list values that deviate from the built-in values.
+	**** Items values must observe XML encoding for double quote (&quot;),
+	**** ampersand (&amp;), and angle brackets (&lt; and &gt;).
+	-->
+
+	<Scheme
+		name="_builtin_"
+		ColorImage="0000ff"
+		TransparentColor="ffffff"
+		ColorHyperLink="0000ff"
+		FormatBarVisible="1"
+		/>
+
+	<Scheme
+		name="_custom_"
+		ZoomPercentage="85"
+		/>
+
+	<Plugin
+		name="_AbiPaint_"
+		szImageEditor="gimp"
+		bLeaveImageAsPNG="1"
+		/>
+
+	<Recent
+		max="9"
+		name1="file:///home/go/.mplayer/config"
+		/>
+
+	<Geometry
+		width="800"
+		height="600"
+		posx="33"
+		posy="135"
+		flags="2"
+		/>
+
+	<Log>
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/command.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/command.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mif.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mif.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wmf.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wmf.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/pdb.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/pdb.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/opml.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/opml.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/t602.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/t602.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/gimp.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L164): failed to register /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/gimp.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L170): error msg Unknown -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wml.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wml.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/iscii.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/iscii.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Wed 29 May 2024 10:24:27 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wordperfect.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wordperfect.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/eml.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/eml.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/openxml.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/openxml.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wpg.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wpg.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/urldict.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/urldict.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/pdf.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/pdf.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/passepartout.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/passepartout.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/epub.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/epub.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/presentation.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/presentation.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/docbook.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/docbook.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/goffice.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/goffice.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/sdw.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/sdw.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/s5.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/s5.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/latex.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/latex.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/applix.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/applix.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/bmp.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/bmp.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mht.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/mht.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/opendocument.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/opendocument.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/ots.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/ots.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/kword.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/kword.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/google.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/google.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/garble.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/garble.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/hancom.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/hancom.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/grammar.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/grammar.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/gdict.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/gdict.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/paint.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/paint.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/clarisworks.so -->
+	<!-- [Wed 29 May 2024 10:24:28 AM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/x86_64-linux-gnu/abiword-3.0/plugins/clarisworks.so -->
+	</Log>
+
+	<Fonts include="0">
+	<!--
+	     Here you can put a list of fonts to limit the fonts that appear 
+	     in the font UI:
+
+		<Face name="some face"/>
+
+	     The include attribute of 'Fonts' controls the significance of 
+	     the list:
+	     include="1" - limit fonts to those listed
+	     include="0" - exclude the listed fonts from the system font list
+	-->
+	</Fonts>
+
+</AbiPreferences>

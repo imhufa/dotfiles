@@ -1,0 +1,166 @@
+alsa_soundcard default
+artwork.cache.expiration_time 0.000000
+artwork.cache.simplified 0
+artwork.cache_reset_time 0
+artwork.enable_embedded 0
+artwork.enable_lastfm 0
+artwork.enable_localfolder 0
+artwork.enable_wos 0
+artwork.filemask front.png;front.jpg;front.jpeg;folder.png;folder.jpg;folder.jpeg;cover.png;cover.jpg;cover.jpeg;f.png;f.jpg;f.jpeg;*front*.png;*front*.jpg;*front*.jpeg;*cover*.png;*cover*.jpg;*cover.jpeg;*folder*.png;*folder*.jpg;*folder*.jpeg;*.png;*.jpg;*.jpeg
+artwork.folders art;scans;covers;artwork;artworks
+artwork.image_size 256.000000
+artwork.missing_artwork 1
+artwork.nocover_path 
+artwork.save_to_music_folders 0
+artwork.save_to_music_folders_relative_path cover.jpg
+cdda.drive_speed 2
+cdda.enable_nrg 0
+cdda.freedb.enable 0
+cdda.freedb.host gnudb.gnudb.org
+cdda.freedb.port 8880
+cdda.paranoia 0
+cdda.prefer_cdtext 0
+cdda.protocol 0
+cli_add_playlist_name imhorny
+deadbeef_version 1.9.6
+ffmpeg.enable_all_exts 1
+ffmpeg.enable_dop 0
+ffmpeg.extensions aa3;oma;ac3;vqf;amr;tak;dsf;dff;wma;3gp;mp4;m4a
+filechooser.lastdir file:///home/go/.seacrit/hub/aud/school/m4a
+filechooser.playlist.lastdir file:///home/go/.seacrit/hub/playlist
+gtkui.color.bar_foreground 52418 27078 45429
+gtkui.color.listview_column_text 23078 34036 45340
+gtkui.color.listview_cursor 42346 51074 51188
+gtkui.color.listview_group_text 36470 1402 31902
+gtkui.color.listview_playing_text 58596 49344 26728
+gtkui.color.listview_selected_text 57054 35723 21588
+gtkui.color.listview_selection 5911 5911 5911
+gtkui.color.listview_text 61929 32872 47982
+gtkui.color.tabstrip_playing_text 39846 44199 59113
+gtkui.color.tabstrip_selected_text 56368 33916 20983
+gtkui.color.tabstrip_text 52706 50246 28652
+gtkui.columns.playlist [{"title":"♫","id":"1","format":"%playstatus%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"},{"title":"Title","id":"-1","format":"%title%","sort_format":"","size":"319","align":"0","color_override":"0","color":"#ff000000"},{"title":"Duration","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
+gtkui.columns.search [{"title":"Artist / Album","id":"-1","format":"$if(%artist%,%artist%,Unknown Artist)[ - %album%]","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Track No","id":"-1","format":"%tracknumber%","sort_format":"","size":"50","align":"1","color_override":"0","color":"#ff000000"},{"title":"Title","id":"-1","format":"%title%","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Duration","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
+gtkui.embolden_current_track 1
+gtkui.embolden_selected_tracks 1
+gtkui.eq.visible 0
+gtkui.font.tabstrip_text Quicksand Medium, Medium 9
+gtkui.last_playlist_save_name /home/go/.seacrit/hub/playlist/thecontender.dbpl
+gtkui.layout.1.9.0 {"type":"vbox","legacy_params":" expand=\"0 1\" fill=\"1 1\" homogeneous=0","children":[{"type":"hbox","legacy_params":" expand=\"0 1 0\" fill=\"1 1 1\" homogeneous=0","children":[{"type":"playtb"},{"type":"seekbar"},{"type":"volumebar","settings":{"scale":"db"}}]},{"type":"tabbed_playlist","legacy_params":" hideheaders=0 width=624"}]}
+gtkui.override_bar_colors 1
+gtkui.override_listview_colors 1
+gtkui.override_tabstrip_colors 1
+gtkui.playlist.group_by_tf 
+gtkui.pltbrowser.highlight_curr_plt 1
+gtkui.pltbrowser.mmb_delete_playlist 0
+gtkui.pltbrowser.play_on_double_click 1
+gtkui.search.group_by_tf 
+gtkui.statusbar.visible 1
+gtkui.statusbar_seltime 0
+gtkui.tabscroll 0
+gtkui.tabstrip_embolden_playing 1
+gtkui.tabstrip_italic_playing 0
+gtkui.titlebar_playing_tf %title%
+gtkui.titlebar_stopped_tf deadbeef
+gtkui.vis.custom_base_color 49773 20104 43631
+gtkui.vis.use_custom_background_color 0
+gtkui.vis.use_custom_base_color 0
+hotkey.key01 "Ctrl o" 0 0 open_files
+hotkey.key02 "Ctrl q" 0 0 quit
+hotkey.key03 "Ctrl n" 0 0 new_playlist
+hotkey.key04 "Ctrl a" 0 0 select_all
+hotkey.key05 "Escape" 0 0 deselect_all
+hotkey.key06 "Ctrl j" 0 0 jump_to_current_track
+hotkey.key07 "F9" 0 0 help
+hotkey.key08 "Delete" 1 0 remove_from_playlist
+hotkey.key09 "Ctrl w" 0 0 remove_current_playlist
+hotkey.key10 "Alt Return" 1 0 track_properties
+hotkey.key11 "Return" 0 0 play
+hotkey.key12 "Ctrl 1" 0 0 playlist1
+hotkey.key13 "Ctrl 2" 0 0 playlist2
+hotkey.key14 "Ctrl 3" 0 0 playlist3
+hotkey.key15 "Ctrl 4" 0 0 playlist4
+hotkey.key16 "z" 0 0 prev
+hotkey.key17 "space" 0 0 play_pause
+hotkey.key18 "b" 0 0 next
+hotkey.key19 "XF86AudioPlay" 0 1 play_pause
+hotkey.key20 "XF86AudioNext" 0 1 next
+hotkey.key21 "XF86AudioPrev" 0 1 prev_or_restart
+hotkey.key22 "XF86AudioStop" 0 1 loop_cycle
+hotkey.key23 "XF86AudioRaiseVolume" 0 1 volume_up
+hotkey.key24 "XF86AudioLowerVolume" 0 1 volume_down
+hotkey.key25 "XF86AudioMute" 0 1 toggle_mute
+hotkey.key26 "Left" 0 0 seek_5s_back
+hotkey.key27 "Right" 0 0 seek_5s_fwd
+hotkey.key28 "Ctrl Left" 0 0 seek_5p_back
+hotkey.key29 "Ctrl Right" 0 0 seek_5p_fwd
+hotkey.key30 "Shift Left" 0 0 seek_1p_back
+hotkey.key31 "Shift Right" 0 0 seek_1p_fwd
+hotkey.key32 "Ctrl XF86AudioPrev" 0 1 seek_5p_back
+hotkey.key33 "Ctrl XF86AudioNext" 0 1 seek_5p_fwd
+hotkey.key34 "Shift XF86AudioPrev" 0 1 seek_1p_back
+hotkey.key35 "Shift XF86AudioNext" 0 1 seek_1p_fwd
+hotkey.key36 "Alt XF86AudioPrev" 0 1 seek_5s_back
+hotkey.key37 "Alt XF86AudioNext" 0 1 seek_5s_fwd
+hotkey.key38 "Ctrl d" 0 0 add_files
+hotkeys_created 1
+logwindow.geometry.h 200
+logwindow.geometry.w 400
+logwindow.geometry.x 509
+logwindow.geometry.y 788
+mainwin.geometry.h 398
+mainwin.geometry.w 624
+mainwin.geometry.x 450
+mainwin.geometry.y 1473
+mp3.backend 0
+mp3.force16bit 0
+network.proxy.port 8080
+notify.albumart 0
+notify.albumart_size 64
+notify.enable 1
+notify.fix_kde_5_23_5 0
+notify.format_content_tf %title%
+notify.format_title_tf %title%
+output_plugin alsa
+playback.loop 0
+playback.volume.normalized 1.0000000
+playlist.current 0
+playlist.cursor.0 19
+playlist.cursor.1 8
+playlist.cursor.2 0
+playlist.cursor.3 0
+playlist.cursor.4 2
+playlist.cursor.5 -1
+playlist.scroll.0 218
+playlist.scroll.1 -8
+playlist.scroll.2 0
+playlist.scroll.3 0
+playlist.scroll.4 0
+playlist.scroll.5 0
+playlist.scroll.cursorfollowplayback 1
+playlist.tab.00000 huh?
+playlist.tab.00001 contender
+playlist.tab.00002 cum
+playlist.tab.00003 beatbox
+playlist.tab.00004 school
+playlist.tab.00005 imhorny
+prefwin.geometry.h 531
+prefwin.geometry.w 648
+prefwin.geometry.x 1496
+prefwin.geometry.y 1009
+resume.paused 0
+resume.playlist -1
+resume.position -1.000000
+resume.track -1
+resume_last_session 0
+streamer.8_to_16 0
+streamer.bit_override 0
+streamer.override_samplerate 0
+streamer.samplerate 44100
+streamer.samplerate_mult_44 44100
+streamer.samplerate_mult_48 44100
+streamer.use_dependent_samplerate 0
+trkproperties.geometry.h 400
+trkproperties.geometry.w 400
+trkproperties.geometry.x 56
+trkproperties.geometry.y 459

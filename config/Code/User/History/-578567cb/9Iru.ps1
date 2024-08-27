@@ -1,0 +1,2 @@
+Invoke-Command pwsh -RunAsAdministrator
+

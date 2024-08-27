@@ -1,0 +1,7 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, BackColour, OutlineColour, Bold, Italic, Alignment, BorderStyle, Outline, Shadow, MarginL, MarginR, MarginV
+Style: Default,DejaVu Sans Mono,13,&H0055adc5,&H00000000,&H00000000,-1,0,8,1,0,1,17,17,7

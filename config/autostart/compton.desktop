@@ -1,0 +1,12 @@
+[DesktopEntry]
+Encoding=UTF-8
+Version=1
+Type=Application
+Name=Compton
+Comment=X11 compositor
+Exec=compton -b
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false
+

@@ -1,0 +1,6 @@
+2024/06/07-08:16:00.884 d8a8 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb since it was missing.
+2024/06/07-08:16:00.947 d8a8 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-08:18:24.426 d8a9 Level-0 table #5: started
+2024/06/07-08:18:24.470 d8a9 Level-0 table #5: 3761 bytes OK
+2024/06/07-08:18:24.501 d8a9 Delete type=0 #3
+2024/06/07-08:18:24.501 d8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

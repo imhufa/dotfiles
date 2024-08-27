@@ -1,0 +1,27 @@
+2024/07/21-02:44:17.979 4 Reusing MANIFEST /home/go/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/21-02:44:18.069 4 Recovering log #280
+2024/07/21-02:44:18.105 4 Reusing old log /home/go/.config/chromium/Default/Local Storage/leveldb/000280.log 
+2024/07/21-02:47:47.116 4 Level-0 table #284: started
+2024/07/21-02:47:47.152 4 Level-0 table #284: 19508 bytes OK
+2024/07/21-02:47:47.178 4 Delete type=0 #280
+2024/07/21-02:52:24.212 6 Level-0 table #286: started
+2024/07/21-02:52:24.275 6 Level-0 table #286: 76141 bytes OK
+2024/07/21-02:52:24.308 6 Delete type=0 #283
+2024/07/21-02:52:24.312 6 Compacting 4@0 + 1@1 files
+2024/07/21-02:52:25.619 6 Generated table #287@0: 3306 keys, 1857456 bytes
+2024/07/21-02:52:25.619 6 Compacted 4@0 + 1@1 files => 1857456 bytes
+2024/07/21-02:52:25.642 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/21-02:52:25.644 6 Delete type=2 #284
+2024/07/21-02:52:25.644 6 Delete type=2 #286
+2024/07/21-02:52:25.644 6 Delete type=2 #281
+2024/07/21-02:52:25.645 6 Delete type=2 #279
+2024/07/21-02:52:25.645 6 Delete type=2 #277
+2024/07/21-02:56:38.850 6 Level-0 table #289: started
+2024/07/21-02:56:38.902 6 Level-0 table #289: 68569 bytes OK
+2024/07/21-02:56:38.924 6 Delete type=0 #285
+2024/07/21-03:00:56.393 6 Level-0 table #291: started
+2024/07/21-03:00:56.435 6 Level-0 table #291: 69129 bytes OK
+2024/07/21-03:00:56.452 6 Delete type=0 #288
+2024/07/21-03:05:16.842 6 Level-0 table #293: started
+2024/07/21-03:05:16.889 6 Level-0 table #293: 69743 bytes OK
+2024/07/21-03:05:16.910 6 Delete type=0 #290

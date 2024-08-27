@@ -1,0 +1,34 @@
+T 1717891066 19*	Now talking on 22#lobby
+T 1717891066 22*	Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1717891066 22*	Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1717891066 -18NickServ-	Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1717891066 -18IRC4Fun-	[Logon News - Oct 17 21:46:04 2021 UTC] For help with NickServ, ChanServ, or any Service; use /msg NickServ HELP -- or join #Help
+T 1717891066 -18IRC4Fun-	[Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1717891066 -18IRC4Fun-	Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1717891066 -18ChanServ-	[#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1717891066 -18ChanServ-	[#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1717891066 -18ChanServ-	[#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1717891140 24*	AlyxxTheRat has quit (Ping timeout: 120 seconds)
+T 1717891151 23*	28[18SmokeMode28] 30(24SmokeMode@IRC4Fun-0v3u7k.rpblc.net30): 18SmokeMode
+T 1717891151 23*	28[18SmokeMode28] #dennis #lobby 
+T 1717891151 23*	28[18SmokeMode28] 29coven.IRC4Fun.net :Fiona Goode - and I am in charge everywhere!
+T 1717891151 23*	28[18SmokeMode28] idle 23615:11:14, signon: 23Tue May 14 01:47:54
+T 1717891151 23*	28[18SmokeMode28] End of WHOIS list.
+T 1717891159 23*	28[18Angelz28] 30(24Angelz@IRC4Fun-67sgvt.oddprotocol.org30): 18Angelz
+T 1717891159 23*	28[18Angelz28] #GitHub #Help #IRCplus #ircnow #IRC4Fun #Discord #netflix #chess #Wasteland #Politics #lobby 
+T 1717891159 23*	28[18Angelz28] 29prometheus.IRC4Fun.net :London, UK
+T 1717891159 23*	28[18Angelz28] is using a secure connection
+T 1717891159 23*	28[18Angelz28] idle 231077:46:31, signon: 23Wed Apr 24 19:12:46
+T 1717891159 23*	28[18Angelz28] End of WHOIS list.
+T 1717891243 23*	28[18hanna28] 30(24hanna@IRC4Fun-6havhl.org30): 18hanna
+T 1717891243 23*	28[18hanna28] #lobby #dennis 
+T 1717891243 23*	28[18hanna28] 29inspire.IRC4Fun.net :Find your muse
+T 1717891243 23*	28[18hanna28] is using a secure connection
+T 1717891243 23*	28[18hanna28] idle 23615:47:42, signon: 23Tue May 14 01:12:59
+T 1717891243 23*	28[18hanna28] End of WHOIS list.
+T 1717891599 23*	josh (~josh@IRC4Fun-vb85jr.j6ec.ttb8.06c1.2601.IP23) has joined
+T 1717892022 23*	guru__ (~guru@IRC4Fun-actg8b.halt.p5nf.09e8.2001.IP23) has joined
+T 1717892023 24*	guru_ has quit (Ping timeout: 120 seconds)
+T 1717892438 23*	guru_ (~guru@IRC4Fun-09ba08.46l7.ns4l.09e8.2001.IP23) has joined
+T 1717892443 24*	guru__ has quit (Ping timeout: 120 seconds)
+T 1717892693 24*	josh has quit (Ping timeout: 120 seconds)

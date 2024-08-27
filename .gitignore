@@ -20,6 +20,9 @@ xdg
 
 **/bak/*
 
+vscode-oss/
+**/vscode-oss/*
+
 /dist
 /node_modules
 /.env

@@ -1,0 +1,105 @@
+T 1717891635 19*	Now talking on 22#bisaya
+T 1717891635 22*	Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1717891635 22*	Topic for 22#bisaya set by 26X (24Sat Jun  8 15:53:01 2024)
+T 1717891636 22*	26X sets channel limit to 2420
+T 1717891637 22*	26Madame gives voice to 18ajabroni
+T 1718446560 19*	Now talking on 22#bisaya
+T 1718446560 22*	Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1718446560 22*	Topic for 22#bisaya set by 26X (24Sat Jun 15 01:17:27 2024)
+T 1718446562 22*	26Madame gives voice to 18ajabroni
+T 1718449762 19* Now talking on 22#bisaya
+T 1718449762 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1718449762 22* Topic for 22#bisaya set by 26X (24Sat Jun 15 03:16:00 2024)
+T 1718449763 22* 26Madame gives voice to 18ajabroni
+T 1718450552 19* Now talking on 22#bisaya
+T 1718450552 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1718450552 22* Topic for 22#bisaya set by 26X (24Sat Jun 15 04:09:22 2024)
+T 1718450601 22* 26Madame gives voice to 18ajabroni
+T 1718459319 20* Disconnected (20)
+T 1718459433 19* Now talking on 22#bisaya
+T 1718459433 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1718459433 22* Topic for 22#bisaya set by 26X (24Sat Jun 15 04:09:22 2024)
+T 1718459435 22* 26Madame gives voice to 18AJabroniWith
+T 1718460200 22* 26X gives channel operator status to 18ayuki
+T 1718463727 24* 28rastaval_ is now known as 18rastaval
+T 1718466660 24* Madame has quit (Ping timeout)
+T 1718466700 23* Madame (madame@madame.users.undernet.org23) has joined
+T 1718466700 22* 26X gives channel operator status to 18Madame
+T 1718519836 19* Now talking on 22#bisaya
+T 1718519836 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1718519836 22* Topic for 22#bisaya set by 26X (24Sat Jun 15 23:12:38 2024)
+T 1718519838 22* 26Madame gives voice to 18AJabroniWith
+T 1718519840 22* 26X sets channel limit to 2419
+T 1719116170 19* Now talking on 22#bisaya
+T 1719116170 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1719116170 22* Topic for 22#bisaya set by 26X (24Sat Jun 22 17:24:55 2024)
+T 1719116172 22* 26Madame gives voice to 18AJabroniWith
+T 1719615804 19* Now talking on 22#bisaya
+T 1719615804 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1719615804 22* Topic for 22#bisaya set by 26X (24Fri Jun 28 13:11:16 2024)
+T 1719615805 22* 26Madame gives voice to 18AJabroniWith
+T 1720317447 19* Now talking on 22#bisaya
+T 1720317447 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1720317447 22* Topic for 22#bisaya set by 26X (24Sat Jul  6 18:18:04 2024)
+T 1720317449 22* 26Madame gives voice to 18AJabroniWith
+T 1720318052 23* uNsp0k3n`f (uid648667@id-648667.lymington.irccloud.com23) has joined
+T 1720318053 22* 26Madame gives voice to 18uNsp0k3n`f
+T 1720318081 22* 26X sets channel limit to 2416
+T 1720319832 24* uNsp0k3n`f has quit (Quit: byeee pinas)
+T 1720319874 23* uNsp0k3n`f (uid648667@id-648667.lymington.irccloud.com23) has joined
+T 1720319875 22* 26Madame gives voice to 18uNsp0k3n`f
+T 1720319882 24* uNsp0k3n`f (uid648667@id-648667.lymington.irccloud.com24) has left
+T 1720704690 19* Now talking on 22#bisaya
+T 1720704690 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1720704690 22* Topic for 22#bisaya set by 26X (24Thu Jul 11 02:30:08 2024)
+T 1720704691 22* 26Madame gives voice to 18AJabroniWith
+T 1721644773 19* Now talking on 22#bisaya
+T 1721644773 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1721644773 22* Topic for 22#bisaya set by 26X (24Mon Jul 22 02:38:18 2024)
+T 1721644774 22* 26Madame gives voice to 18AJabroniWith
+T 1721645021 18<`4LetterLie18> hoi!!
+T 1721647547 18* `4LetterLie burp~~
+T 1722391459 19* Now talking on 22#bisaya
+T 1722391459 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1722391459 22* Topic for 22#bisaya set by 26X (24Tue Jul 30 18:11:01 2024)
+T 1722391460 22* 26Madame gives voice to 18AJabroniWith
+T 1722398722 24* Freakshell has quit (Read error: EOF from client)
+T 1722398800 23* Freakshell (sheila@freakshells.net23) has joined
+T 1722398802 22* 26Madame gives voice to 18Freakshell
+T 1723307090 19* Now talking on 22#bisaya
+T 1723307090 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1723307090 22* Topic for 22#bisaya set by 26X (24Sat Aug 10 07:59:16 2024)
+T 1723307092 22* 26Madame gives voice to 18AJabroniWith
+T 1723307101 23* W` (~BotServ@ReansBot.users.undernet.org23) has joined
+T 1723307101 22* 26X gives channel operator status to 18W`
+T 1723307102 22* 26Madame gives voice to 18W`
+T 1723310467 23* lexie (~lexie@lexie.users.undernet.org23) has joined
+T 1723310467 22* 26X gives channel operator status to 18lexie
+T 1723310468 22* 26Madame gives voice to 18lexie
+T 1723310470 22* 26X sets channel limit to 2416
+T 1723310510 24* lexie has quit (Read error: Connection reset by peer)
+T 1723310766 23* lexie (~lexie@lexie.users.undernet.org23) has joined
+T 1723310766 22* 26X gives channel operator status to 18lexie
+T 1723310767 22* 26Madame gives voice to 18lexie
+T 1723310805 24* lexie has quit (Read error: Connection reset by peer)
+T 1724371919 19* Now talking on 22#bisaya
+T 1724371919 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1724371919 22* Topic for 22#bisaya set by 26X (24Thu Aug 22 03:30:17 2024)
+T 1724371921 22* 26Madame gives voice to 18AJabroniWith
+T 1724372171 19* Now talking on 22#bisaya
+T 1724372171 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1724372171 22* Topic for 22#bisaya set by 26X (24Thu Aug 22 17:11:59 2024)
+T 1724372172 23* Flipeedeedoo (~Flipeedee@141.164.40.5123) has joined
+T 1724372173 22* 26Madame gives voice to 18Flipeedeedoo
+T 1724372173 22* 26Madame gives voice to 18Flipeedeedoo
+T 1724372196 22* 26X sets channel limit to 2416
+T 1724372196 22* 26X sets channel limit to 2416
+T 1724372325 24* Flipeedeedoo has quit (Quit: Leaving)
+T 1724372356 19* Now talking on 22#bisaya
+T 1724372356 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1724372356 22* Topic for 22#bisaya set by 26X (24Thu Aug 22 17:11:59 2024)
+T 1724372358 22* 26Madame gives voice to 18Flipeedeedoo
+T 1724372458 19* Now talking on 22#bisaya
+T 1724372458 22* Topic for 22#bisaya is: Manager has logged back in. Channel unlocked. Please login regularly to avoid getting your channel purged
+T 1724372458 22* Topic for 22#bisaya set by 26X (24Thu Aug 22 17:11:59 2024)
+T 1724372460 22* 26Madame gives voice to 18Flipeedeedoo

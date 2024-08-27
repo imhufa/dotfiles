@@ -1,0 +1,1 @@
+Invoke-Command -RunAsAdministrator %windir$\powershell.exe | Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
