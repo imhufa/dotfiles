@@ -1,7 +1,6 @@
 ├── atom
 ├── bak
 ├── bash_aliases
-├── bash_profile
 ├── bashrc
 ├── config
 ├── conkyrc
