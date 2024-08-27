@@ -16,7 +16,6 @@
 ├── .local_var
 ├── login
 ├── logs
-├── makesymlinks.sh
 ├── mono
 ├── mplayer
 ├── mutt
