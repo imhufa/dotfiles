@@ -86,4 +86,8 @@ alias goupalias='. $HOME/.bash_aliases'
 alias sourcegozsh='. $HOME/.zshrc'
 alias sourcegoalias='. $HOME/.bash_aliases'
 ohmyzsh="$HOME/dotfiles/oh-my-zsh"
+#
+## v8.24
+alias gonote='. $HOME/.scripts/echonote.sh'
+alias gormline='. $HOME/.scripts/gormline.sh'
 

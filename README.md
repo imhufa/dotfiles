@@ -21,7 +21,8 @@ TBD
 </pre>
 
 <pre>
-<b>dotfiles</b>.
+
+<b>dotfiles</b>
 ├── atom
 ├── bak
 ├── bash_aliases
@@ -29,27 +30,35 @@ TBD
 ├── bashrc
 ├── Code
 ├── compton.conf
+├── .config
+├── conkyrc
 ├── dmrc
 ├── dragonplayerrc
 ├── envrc
 ├── ev
 ├── ev-py
+├── .git
 ├── gitconfig
+├── .gitignore
 ├── idlerc
+├── .ignore
+├── .local_var
 ├── login
 ├── logs
 ├── makesymlinks.sh
 ├── mono
+├── .mplayer
 ├── mplayer
 ├── mutt
 ├── muttrc
 ├── oh-my-zsh
+├── ohmyzsh.sh
 ├── Pipfile
 ├── Pipfile.lock
 ├── profile
 ├── rc.local
 ├── README.md
-├── README.md.tmp
+├── screenlayout
 ├── scripts
 ├── ssh_config
 ├── sshd_config
@@ -57,8 +66,10 @@ TBD
 ├── TODO.md
 ├── torrc
 ├── torsocks.conf
-├── tree.md
 ├── vimrc
+├── vlc
+├── vlc-qt-interface.conf
+├── vlcrc
 ├── vscode
 ├── vscode-oss
 ├── VSCodium
@@ -73,8 +84,4 @@ TBD
 <br>
 <br>
 <br>
-<footer>
-<pre style="text-align:right;">
-<i><b>[updated]:</b>08.22.2024  11:54:33</i>
-</pre>
-</footer>
+<i><b>[updated]: </b>08/27/24</i>
