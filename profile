@@ -1,27 +1,12 @@
-### profile ###
+#!/usr/bin/zsh
 
-## login
-#
-# display
-if [ -n "$DISPLAY_FIXED" ]; then
-	echo 'display fixed.'
-else
-	. "$HOME/.screenlayout/display_fixed.sh"; wait
+if [[ -n $BASH_VERSION ]]; then
+	if [ -f "$HOME/dotfiles/bashrc" ]; then
+		. "$HOME/dotfiles/bashrc";
+	fi
 fi
 
-if [ -n "$DISPLAY_FIXED" ]; then
-	echo 'screenlayout fixed.'
-else
-	. "$HOME/.screenlayout/fix-display.sh"; wait
-fi
-
-# xset
-if [ -f "$HOME/.scripts/login/fix-xset.sh" ]; then
-	. "$HOME/.scripts/login/fix-xset.sh"; wait
-fi
-
-# motd
-if [ -f "$HOME/.scripts/motd.sh" ]; then
-	. "$HOME/.scripts/motd.sh"
+if [ -f "$HOME/.scripts/login/autofix.sh" ]; then
+	. "$HOME/.scripts/login/autofix.sh";
 fi
 

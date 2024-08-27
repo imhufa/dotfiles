@@ -10,11 +10,6 @@ export HISTSIZE=100000
 export HISTFILESIZE=10000000
 export HISTTIMEFORMAT="%d/%m/%y %T "
 
-### motd
-echo $SHELL
-echo $USER
-date
-
 ### colors
 alias l.='ls -d .* --color=auto'
 alias xzegrep='xzegrep --color=auto'
@@ -36,7 +31,6 @@ alias gochmodsysr='sudo chmod -R 4755'
 alias gochmodsys='sudo chmod 4755'
 
 ## me is you
-# vim is nvim
 alias vim='nvim'
 
 ## apt
@@ -85,9 +79,8 @@ alias goupalias='. $HOME/.bash_aliases'
 ## v8.22
 alias sourcegozsh='. $HOME/.zshrc'
 alias sourcegoalias='. $HOME/.bash_aliases'
-ohmyzsh="$HOME/dotfiles/oh-my-zsh"
 #
-## v8.24
+## v8.27
 alias gonote='. $HOME/.scripts/echonote.sh'
 alias gormline='. $HOME/.scripts/rmlastLine.sh'
 alias gormfline='. $HOME/.scripts/rmfirstLine.sh'
