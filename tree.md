@@ -1,28 +1,3 @@
-TBD
-=======
->
-> #### self-educating my peanut brain
-> ###### _with what?_
-
-<pre>
-<b>relative to this repo:</b>
-	> bash
-> scripting
-			> cli
-	> dotfiles
-> repos
-		> cloud
-			> linux
-					> remoting
-		> ssh
-	> vms
-				> sysadmin
-		[ etc ... ]
-</pre>
-
-<pre>
-
-<b>dotfiles</b>
 ├── atom
 ├── bak
 ├── bash_aliases
@@ -62,7 +37,6 @@ TBD
 ├── scripts
 ├── ssh_config
 ├── sshd_config
-├── static
 ├── tmux.conf
 ├── TODO.md
 ├── torrc
@@ -82,8 +56,3 @@ TBD
 ├── xorg.conf
 ├── zshenv
 └── zshrc
-<br>
-<br>
-<br>
-<br>
-<i><b>[updated]: </b>08/27/24</i>
