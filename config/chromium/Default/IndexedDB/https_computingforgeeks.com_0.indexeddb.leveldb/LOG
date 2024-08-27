@@ -1,6 +1,0 @@
-2024/06/21-16:45:46.889 3f66 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb since it was missing.
-2024/06/21-16:45:46.969 3f66 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/21-17:12:47.309 3f67 Level-0 table #5: started
-2024/06/21-17:12:47.341 3f67 Level-0 table #5: 831 bytes OK
-2024/06/21-17:12:47.355 3f67 Delete type=0 #3
-2024/06/21-17:12:47.355 3f67 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

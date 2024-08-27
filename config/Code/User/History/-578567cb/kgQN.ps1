@@ -1,1 +1,0 @@
-Invoke-Expression | Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process

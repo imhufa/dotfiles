@@ -1,6 +1,0 @@
-2024/07/12-01:34:48.482 b529 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_app.chime.aws_0.indexeddb.leveldb since it was missing.
-2024/07/12-01:34:48.563 b529 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_app.chime.aws_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/12-01:34:53.080 b529 Level-0 table #5: started
-2024/07/12-01:34:53.111 b529 Level-0 table #5: 2357 bytes OK
-2024/07/12-01:34:53.132 b529 Delete type=0 #3
-2024/07/12-01:34:53.133 b529 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

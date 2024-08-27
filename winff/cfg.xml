@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <unix ffmpeg="/usr/bin/ffmpeg" ffplay="/usr/bin/ffplay" terminal="/usr/bin/x-terminal-emulator" termoptions="-e"/>
-  <general pause="true" displaycmdline="true" playsound="true" addfilesfolder="/home/go/Desktop/hubtoo/ph/" currentpreset="XviD Widescreen" showoptions="true" pass2="false" destfolder="" rememberlast="false" multithreading="false" numberofthreads="" priority="High" multipresets="false" beforecommand="" aftercommand=""/>
-  <window height="400" width="640" top="689" left="1334"/>
-</CONFIG>

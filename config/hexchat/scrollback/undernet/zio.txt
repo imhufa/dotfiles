@@ -1,6 +1,0 @@
-T 1718446917 18<Zio>	hello
-T 1718446976 18<Zio>	i am 50 m from north Italy
-T 1718446978 18<Zio>	you?
-T 1718448098 24*	Zio has quit (Quit)
-T 1718449336 20<ajabroni>30	sorry i didnt see the message pop up. im 37 us
-T 1718449338 29*	Zio :No such nick

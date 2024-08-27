@@ -1,1 +1,0 @@
-Invoke-Command -RunAsAdministrator .beta.ps1 | Foreach-Object Set-ExecutionPolicy Bypass -Scope Process -Force

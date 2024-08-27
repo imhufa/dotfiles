@@ -1,7 +1,0 @@
-{
-    "workbench.colorTheme": "Monokai Dimmed",
-    "files.autoSave": "afterDelay",
-    "powershell.promptToUpdatePowerShell": false,
-    "typescript.suggest.enabled": false,
-    "javascript.suggest.enabled": false
-}

@@ -1,6 +1,0 @@
-T 1718450573 18<RichardDom> hi
-T 1718450575 18<RichardDom> how are you?
-T 1718450588 20<ajabroni>30 good ! you?
-T 1718450597 18<RichardDom> i am good too
-T 1718450603 18<RichardDom> M 52 netherlands and you?
-T 1718450641 20<ajabroni>30 37 m usa!

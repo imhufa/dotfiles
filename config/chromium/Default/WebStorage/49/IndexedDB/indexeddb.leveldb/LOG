@@ -1,7 +1,0 @@
-2024/07/17-10:16:58.585 5061 Creating DB /home/go/.config/chromium/Default/WebStorage/49/IndexedDB/indexeddb.leveldb since it was missing.
-2024/07/17-10:16:58.759 5061 Reusing MANIFEST /home/go/.config/chromium/Default/WebStorage/49/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/17-10:17:06.606 5064 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/07/17-10:18:45.559 5062 Level-0 table #5: started
-2024/07/17-10:18:45.594 5062 Level-0 table #5: 11320 bytes OK
-2024/07/17-10:18:45.618 5062 Delete type=0 #3
-2024/07/17-10:18:45.620 5062 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

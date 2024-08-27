@@ -1,1 +1,0 @@
-Set-ExecutionPolicy Bypass Process -Force -Confirm | Invoke-Command -RunAsAdministrator powershell.exe

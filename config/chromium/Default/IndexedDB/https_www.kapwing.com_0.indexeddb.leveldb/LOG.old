@@ -1,6 +1,0 @@
-2024/06/22-12:34:01.156 cc0 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_www.kapwing.com_0.indexeddb.leveldb since it was missing.
-2024/06/22-12:34:01.304 cc0 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_www.kapwing.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/22-12:34:05.682 cbf Level-0 table #5: started
-2024/06/22-12:34:05.712 cbf Level-0 table #5: 4658 bytes OK
-2024/06/22-12:34:05.792 cbf Delete type=0 #3
-2024/06/22-12:34:05.806 cbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

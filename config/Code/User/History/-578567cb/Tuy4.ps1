@@ -1,1 +1,0 @@
-New-PSSession | Invoke-Command -Session -RunAsAdministrator

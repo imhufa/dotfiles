@@ -1,6 +1,0 @@
-2024/06/07-06:34:23.114 d8a9 Creating DB /home/go/.config/chromium/Default/IndexedDB/https_www.att.com_0.indexeddb.leveldb since it was missing.
-2024/06/07-06:34:23.531 d8a9 Reusing MANIFEST /home/go/.config/chromium/Default/IndexedDB/https_www.att.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/07-06:35:20.944 d8a9 Level-0 table #5: started
-2024/06/07-06:35:20.986 d8a9 Level-0 table #5: 5639 bytes OK
-2024/06/07-06:35:21.006 d8a9 Delete type=0 #3
-2024/06/07-06:35:21.007 d8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

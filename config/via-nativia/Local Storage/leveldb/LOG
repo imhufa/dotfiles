@@ -1,5 +1,0 @@
-2024/07/06-05:41:02.885 7f31 Creating DB /home/go/.config/via-nativia/Local Storage/leveldb since it was missing.
-2024/07/06-05:41:03.036 7f31 Reusing MANIFEST /home/go/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
-2024/07/06-05:42:04.826 7f22 Level-0 table #5: started
-2024/07/06-05:42:04.869 7f22 Level-0 table #5: 26820 bytes OK
-2024/07/06-05:42:04.893 7f22 Delete type=0 #3
