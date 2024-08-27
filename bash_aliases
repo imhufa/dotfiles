@@ -89,5 +89,6 @@ ohmyzsh="$HOME/dotfiles/oh-my-zsh"
 #
 ## v8.24
 alias gonote='. $HOME/.scripts/echonote.sh'
-alias gormline='. $HOME/.scripts/gormline.sh'
+alias gormline='. $HOME/.scripts/rmlastLine.sh'
+alias gormfline='. $HOME/.scripts/rmfirstLine.sh'
 
