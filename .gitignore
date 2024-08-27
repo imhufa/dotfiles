@@ -1,0 +1,13 @@
+*hwaget.sh
+
+.gitignore
+*.log
+
+.ignore
+bak
+logs
+oh-my-zsh
+xdg
+xdg/autostart
+scripts/hwaget.sh
+

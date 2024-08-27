@@ -28,12 +28,9 @@ TBD
 ├── bash_aliases
 ├── bash_profile
 ├── bashrc
-├── Code
-├── compton.conf
-├── .config
+├── config
 ├── conkyrc
 ├── dmrc
-├── dragonplayerrc
 ├── envrc
 ├── ev
 ├── ev-py
@@ -47,12 +44,10 @@ TBD
 ├── logs
 ├── makesymlinks.sh
 ├── mono
-├── .mplayer
 ├── mplayer
 ├── mutt
 ├── muttrc
 ├── oh-my-zsh
-├── ohmyzsh.sh
 ├── Pipfile
 ├── Pipfile.lock
 ├── profile
@@ -64,24 +59,19 @@ TBD
 ├── sshd_config
 ├── static
 ├── tmux.conf
-├── TODO.md
 ├── torrc
 ├── torsocks.conf
-├── tree.md
 ├── vimrc
-├── vlc
-├── vlc-qt-interface.conf
-├── vlcrc
 ├── vscode
 ├── vscode-oss
-├── VSCodium
 ├── winff
 ├── xdg
 ├── xinitrc
 ├── xinputrc
 ├── xorg.conf
 ├── zshenv
-└── zshrc
+├── zshrc
+└── zshrc.d
 <br>
 <br>
 <br>

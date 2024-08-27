@@ -1,0 +1,16 @@
+[Configuration]
+LastActiveMode=THUNAR_RENAMER_MODE_NAME
+LastActiveRenamer=ThunarSbrNumberRenamer
+
+[ThunarSbrRemoveRenamer]
+StartOffset=4
+EndOffset=0
+EndOffsetMode=THUNAR_SBR_OFFSET_MODE_RIGHT
+StartOffsetMode=THUNAR_SBR_OFFSET_MODE_RIGHT
+
+[ThunarSbrNumberRenamer]
+TextMode=THUNAR_SBR_TEXT_MODE_NT
+Text=
+Mode=THUNAR_SBR_NUMBER_MODE_123
+Start=4
+
