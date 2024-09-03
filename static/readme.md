@@ -26,6 +26,7 @@ TBD
 ├── atom
 ├── bak
 ├── bash_aliases
+├── bash_functions
 ├── bashrc
 ├── config
 ├── conkyrc
@@ -74,4 +75,4 @@ TBD
 <br>
 <br>
 <br>
-<i><b>[updated]: </b>08/27/24</i>
+<i><b>[updated]: </b>09/03/24</i>
