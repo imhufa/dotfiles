@@ -1,4 +1,0 @@
-T 1717334768 19*	Now talking on 22#hackerspaces
-T 1717334768 22*	Topic for 22#hackerspaces is: Moin @ https://hackerspaces.org ⚒ Meetups (about the wiki, transnational collaboration...) happen at CCC, and online — put your proposals to https://pad.land/hso-agenda ⚒ Need Help? https://wiki.hackerspaces.org/Help ⚒ Ask questions, lurk for answers (means, >60 seconds). ⚒ Need hacking help? https://youtu.be/KEkrWRHCDQU
-T 1717334768 22*	Topic for 22#hackerspaces set by 26dcht00!~dcht00@89-212-22-86.static.t-2.net (24Wed Mar 27 00:51:42 2024)
-T 1717335347 FiSHLiM plugin unloaded

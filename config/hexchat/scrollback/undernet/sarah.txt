@@ -1,2 +1,0 @@
-T 1723307878 20<AJabroniWith>30 hey!
-T 1723308121 24* sarah has quit (Read error: EOF from client)

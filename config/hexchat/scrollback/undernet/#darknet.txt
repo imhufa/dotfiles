@@ -1,3 +1,0 @@
-T 1717889247 19*	Now talking on 22#darknet
-T 1717889247 22*	Topic for 22#darknet is: curl -fsSL https://github.com/theaog/spirit/raw/master/install |bash
-T 1717889247 22*	Topic for 22#darknet set by 26_aog (24Wed Jun  5 04:23:02 2024)

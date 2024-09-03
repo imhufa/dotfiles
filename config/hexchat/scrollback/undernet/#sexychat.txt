@@ -1,4 +1,0 @@
-T 1724372788 19* Now talking on 22#sexychat
-T 1724372788 22* Topic for 22#sexychat is: .
-T 1724372788 22* Topic for 22#sexychat set by 26X (24Thu Aug 22 10:23:40 2024)
-T 1724372798 22* 26X sets channel limit to 249

@@ -1,6 +1,0 @@
-T 1717286119 19*	Now talking on 22#crunchbangplusplus
-T 1717286119 -18Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
-T 1717286128 FiSHLiM plugin unloaded
-T 1717335739 19*	Now talking on 22#crunchbangplusplus
-T 1717335739 -18Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
-T 1717335892 20*	Disconnected (20)

@@ -79,6 +79,6 @@ hexchat*
 /hexchat
 hexchat/
 **/hexchat/*
-.config/hexchat
-.config/hexchat/*
+config/hexchat
+config/hexchat/*
 
