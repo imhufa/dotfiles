@@ -1,5 +1,16 @@
+
+*gogo.log
+**gogo.log
+**/gogo.log/*
+*gogo.sh
+**/gogo.sh/*
+scripts/gogo.sh
+
+*hwaget.log
+**hwaget.log
+**/hwaget.log/*
 *hwaget.sh
-**/hwaget.sh/*
+**/hwaget.shi/*
 scripts/hwaget.sh
 
 *.ignore
@@ -7,6 +18,9 @@ scripts/hwaget.sh
 **/*.ignore/*
 **/.ignore/*
 
+.log/*
+.log/
+.log
 *.log
 logs
 logs/
@@ -58,4 +72,9 @@ yarn-error.log
 /.venv
 .venv/
 **/.venv/*
+
+hexchat
+/hexchat
+hexchat/
+**hexchat/*
 

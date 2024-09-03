@@ -86,3 +86,12 @@ alias gormline='. $HOME/.scripts/rmlastLine.sh'
 alias gormfline='. $HOME/.scripts/rmfirstLine.sh'
 alias goechots='. $HOME/.scripts/echots.sh'
 
+alias gopaneall='tmux setw synchronize-pane on'
+alias gopaneoff='tmux setw synchronize-pane offi'
+alias queryip="curl http://ipecho.net/plain; echo"
+alias tweee='tree -L 1 -la'
+alias twee='tree -L 2 -la'
+#
+## v9.03
+alias mkp='mkdir -p'
+

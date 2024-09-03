@@ -32,3 +32,144 @@ T 1717892023 24*	guru_ has quit (Ping timeout: 120 seconds)
 T 1717892438 23*	guru_ (~guru@IRC4Fun-09ba08.46l7.ns4l.09e8.2001.IP23) has joined
 T 1717892443 24*	guru__ has quit (Ping timeout: 120 seconds)
 T 1717892693 24*	josh has quit (Ping timeout: 120 seconds)
+T 1724821070 19* Now talking on 22#lobby
+T 1724821070 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1724821070 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1724821070 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1724821070 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1724821070 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1724821070 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1724821070 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1724821070 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1724821070 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1724821239 24* User2265 has quit (Ping timeout: 120 seconds)
+T 1724924270 19* Now talking on 22#lobby
+T 1724924270 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1724924270 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1724924270 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1724924270 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1724924270 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1724924270 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1724924270 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1724924270 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1724924270 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1724924272 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1724924272 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1724924272 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1724924272 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1724926846 23* aDgors_on_GFN (aDgors_on_@IRC4Fun-k0a.arr.84.80.IP23) has joined
+T 1724927099 23* TechBeardNC_ (~ZNC@IRC4Fun-93q.vht.71.71.IP23) has joined
+T 1724927118 24* TechBeardNC has quit (Ping timeout: 120 seconds)
+T 1724927123 24* 28TechBeardNC_ is now known as 18TechBeardNC
+T 1724927124 23* sbrix (~canno@IRC4Fun-5kt.v72.210.78.IP23) has joined
+T 1724927125 22* 26ChanServ gives voice to 18TechBeardNC
+T 1724927176 24* sbrix (~canno@IRC4Fun-5kt.v72.210.78.IP24) has left
+T 1724927497 24* aDgors_on_GFN has quit (Quit: Client closed)
+T 1724927690 19* Now talking on 22#lobby
+T 1724927690 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1724927690 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1724927690 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1724927690 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1724927690 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1724927690 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1724927690 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1724927690 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1724927690 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1724927692 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1724927692 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1724927692 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1724927692 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1724929855 23* jimmyjones (~jimmyjone@IRC4Fun-eka.j99.90.91.IP23) has joined
+T 1724929954 24* jimmyjones has quit (Quit: Leaving)
+T 1724930222 23* TheGrand547 (~TheGrand5@users/TheGrand54723) has joined
+T 1724930222 22* 26apocalypse.IRC4Fun.net gives voice to 18TheGrand547
+T 1724930964 23* jangwo_ (~quassel@IRC4Fun-lv2.cn0.137.78.IP23) has joined
+T 1724931169 24* jangwo has quit (Ping timeout: 120 seconds)
+T 1724933578 23* catnipper (~catnipper@IRC4Fun-j765e1.dhcp.inet.fi23) has joined
+T 1724933996 23* jimmyjones (~jimmyjone@IRC4Fun-eka.j99.90.91.IP23) has joined
+T 1724934015 24* jimmyjones has quit (Quit: Leaving)
+T 1724935603 24* TheGrand547 has quit (Ping timeout: 120 seconds)
+T 1724938533 24* TechBeardNC has quit (Ping timeout: 120 seconds)
+T 1724938573 23* TechBeardNC (~ZNC@IRC4Fun-40jhi6.res.spectrum.com23) has joined
+T 1724938582 22* 26ChanServ gives voice to 18TechBeardNC
+T 1724939774 23* Bubbles (~Bubblesca@IRC4Fun-q41rt8.cytanet.com.cy23) has joined
+T 1724940786 24* nax has quit (Connection closed)
+T 1724940952 23* nax (nax@IRC4Fun-22bo0r.from.dotbnc.com23) has joined
+T 1724941015 24* 28nax is now known as 18User46094
+T 1724941360 24* Bubbles has quit (Quit: Leaving)
+T 1724941594 23* irfan (~irfan@IRC4Fun-pkp.ocm.123.223.IP23) has joined
+T 1724982053 19* Now talking on 22#lobby
+T 1724982053 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1724982053 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1724982053 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1724982053 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1724982053 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1724982053 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1724982053 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1724982053 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1724982053 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1724982054 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1724982054 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1724982054 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1724982054 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1725347383 19* Now talking on 22#lobby
+T 1725347383 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1725347383 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1725347383 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1725347383 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1725347383 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1725347383 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1725347383 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1725347383 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1725347383 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1725347383 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1725347383 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1725347383 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1725347383 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1725347809 19* Now talking on 22#lobby
+T 1725347809 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1725347809 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1725347809 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1725347809 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1725347809 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1725347809 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1725347809 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1725347809 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1725347809 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1725347810 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1725347810 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1725347810 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1725347810 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1725348295 19* Now talking on 22#lobby
+T 1725348295 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1725348295 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1725348295 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1725348295 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1725348295 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1725348295 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1725348295 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1725348295 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1725348295 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1725348295 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1725348295 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1725348295 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1725348295 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1725348332 20* Disconnected (20)
+T 1725352225 19* Now talking on 22#lobby
+T 1725352225 22* Topic for 22#lobby is: 🗨️ Welcome to the new lobby! 🆕  You can /join #IRC4Fun  to join our main channel, or use /list  for a list of channels! (https://irc4fun.net) | 🔇Must be registered for messages to be seen. 🔐 Register your nickname: /NS REGISTER password email@address.com | 🚦 Don't want to be autojoined? Type !nojoin
+T 1725352225 22* Topic for 22#lobby set by 26siniStar!siniStar@IRC4Fun/staff/siniStar (24Mon Mar  4 16:53:56 2024)
+T 1725352225 -18NickServ- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+T 1725352225 -18IRC4Fun- [Logon News - Aug 03 01:05:10 2024 UTC] Services now supports multiple Languages: See /msg NickServ help set LANGUAGE for more information.
+T 1725352225 -18IRC4Fun- [Random News - Dec 28 05:04:41 2022 UTC] 📰 News: 12/27/2022 📰 IRC4Fun now allows TOR (with SASL Authentication) -- Please see https://irc4fun.net/r/tor for more information. 📓 Current users with NickServ accounts are already able to take advantage of TOR on IRC4Fun! 👍
+T 1725352225 -18IRC4Fun- Your host will now be scanned for insecure or open proxies. If you do not consent to this scan please disconnect immediately.
+T 1725352225 -18ChanServ- [#lobby] Only @Ops can see un-registered Users speak - To register, type: /NS REGISTER myPassword my@validemail.com and confirm your email.
+T 1725352225 -18ChanServ- [#lobby] ℹ️ Feel free to join our main (and generally more active) channel:  #IRC4Fun  - You can also get a list of channels by using  /LIST  or visiting https://IRC4Fun.net/channels/
+T 1725352225 -18ChanServ- [#lobby] ❓ New or Need help? Type: /join #Help -- We also have Guides & Documents available: https://IRC4Fun.net/kb/ - 🚦 Prefer to not to be autojoined? Type:  !nojoin 
+T 1725352228 23* Notify: 18julie18 is offline (29IRC4Fun)
+T 1725352228 23* Notify: 18abby^ is offline (29IRC4Fun)
+T 1725352228 23* Notify: 18RuthAnn is offline (29IRC4Fun)
+T 1725352228 23* Notify: 18wife40s is offline (29IRC4Fun)
+T 1725352939 23* CoolDude007 (~CoolDude0@IRC4Fun-oapao9.range31-53.btcentralplus.com23) has joined
+T 1725352957 24* CoolDude007 (~CoolDude0@IRC4Fun-oapao9.range31-53.btcentralplus.com24) has left
+T 1725353204 24* catnipper has quit (Connection closed)
+T 1725354212 24* Tcache has quit (Ping timeout: 120 seconds)

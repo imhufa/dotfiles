@@ -91,3 +91,56 @@ T 1724372409 24* Flipeedeedoo has quit (Read error: EOF from client)
 T 1724372458 19* Now talking on 22#filipinas
 T 1724372458 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
 T 1724372458 22* Topic for 22#filipinas set by 26X (24Thu Aug 22 17:11:59 2024)
+T 1724926294 19* Now talking on 22#filipinas
+T 1724926294 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1724926294 22* Topic for 22#filipinas set by 26X (24Thu Aug 29 02:50:07 2024)
+T 1724926296 22* 26X sets channel limit to 2412
+T 1724927698 19* Now talking on 22#filipinas
+T 1724927698 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1724927698 22* Topic for 22#filipinas set by 26X (24Thu Aug 29 02:50:07 2024)
+T 1724927711 19* Now talking on 22#filipinas
+T 1724927711 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1724927711 22* Topic for 22#filipinas set by 26X (24Thu Aug 29 03:34:57 2024)
+T 1724927711 23* Flipipino (~Flipeedoo@141.164.40.5123) has joined
+T 1724982059 19* Now talking on 22#filipinas
+T 1724982059 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1724982059 22* Topic for 22#filipinas set by 26X (24Thu Aug 29 17:28:11 2024)
+T 1725347389 19* Now talking on 22#filipinas
+T 1725347389 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725347389 22* Topic for 22#filipinas set by 26X (24Mon Sep  2 21:22:14 2024)
+T 1725347701 20* Disconnected (20)
+T 1725347702 20* Disconnected (20Remote host closed socket)
+T 1725347728 19* Now talking on 22#filipinas
+T 1725347728 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725347728 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 00:09:49 2024)
+T 1725347820 19* Now talking on 22#filipinas
+T 1725347820 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725347820 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 00:09:49 2024)
+T 1725347844 22* 26yusuf gives voice to 18_tracy_ deepeedeedoo InGoL MrB
+T 1725348315 19* Now talking on 22#filipinas
+T 1725348315 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725348315 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 00:09:49 2024)
+T 1725348327 20* Disconnected (20)
+T 1725352234 19* Now talking on 22#filipinas
+T 1725352234 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725352234 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 00:51:04 2024)
+T 1725352927 20* Disconnected (20)
+T 1725352943 19* Now talking on 22#filipinas
+T 1725352943 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725352943 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 01:30:34 2024)
+T 1725352982 20* Disconnected (20)
+T 1725352999 19* Now talking on 22#filipinas
+T 1725352999 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725352999 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 01:30:34 2024)
+T 1725353580 20* Disconnected (20)
+T 1725353592 20* Disconnected (20Remote host closed socket)
+T 1725353611 20* Disconnected (20Remote host closed socket)
+T 1725353630 20* Disconnected (20Remote host closed socket)
+T 1725353940 20* Disconnected (20Remote host closed socket)
+T 1725353967 19* Now talking on 22#filipinas
+T 1725353967 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725353967 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 01:30:34 2024)
+T 1725353983 20* Disconnected (20)
+T 1725353999 19* Now talking on 22#filipinas
+T 1725353999 22* Topic for 22#filipinas is: 9,88Welcome to 0,88#Fi8,88li12,88pi4,88nas 7| 0,1You can’t separate peace and freedom.8 ( https://filipinasph.weebly.com/ )
+T 1725353999 22* Topic for 22#filipinas set by 26X (24Tue Sep  3 01:30:34 2024)
