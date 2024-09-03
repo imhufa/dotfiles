@@ -93,5 +93,4 @@ alias tweee='tree -L 1 -la'
 alias twee='tree -L 2 -la'
 #
 ## v9.03
-alias mkp='mkdir -p'
 

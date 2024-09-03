@@ -32,8 +32,21 @@ else
 fi
 
 if [[ -n $DOTFILES_DIR ]]; then
-	export DOTFILES_DIR="$HOME/dotfiles";
+	export DOTFILES_DIR="$HOME/dotfiles"
 else
-	export DOTFILES_DIR="$HOME/dotfiles";
+	export DOTFILES_DIR="$HOME/dotfiles"
 fi
 
+if [ -d $HOME/.venv ]; then
+	if [ -z $VENV_DIR ]; then
+		export VENV_DIR="$HOME/.venv"
+	else
+		export venvdir="$VENV_DIR"
+	fi
+fi
+
+if [[ -n $VENV_DIR ]]; then
+	if [ -z $venvdir ]; then
+		export venvdir="$VENV_DIR"
+	fi
+fi

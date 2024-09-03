@@ -1,6 +1,6 @@
 {
     "schema_version": 2,
-    "timestamp": 1725347882,
+    "timestamp": 1725397751,
     "workspace": {
         "0": [
             [
@@ -12,20 +12,7 @@
                         },
                         {
                             "type": "term",
-                            "directory": "/home/go",
-                            "custom_colors": {
-                                "fg_color": null,
-                                "bg_color": null,
-                                "palette": null
-                            }
-                        },
-                        {
-                            "type": "dual_v",
-                            "directory": null
-                        },
-                        {
-                            "type": "term",
-                            "directory": "/home/go",
+                            "directory": "/home/go/Desktop/desktop2/sg_new",
                             "custom_colors": {
                                 "fg_color": null,
                                 "bg_color": null,
@@ -34,7 +21,7 @@
                         },
                         {
                             "type": "term",
-                            "directory": "/home/go",
+                            "directory": "/home/go/Desktop/vid/im",
                             "custom_colors": {
                                 "fg_color": null,
                                 "bg_color": null,
