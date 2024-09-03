@@ -76,5 +76,5 @@ yarn-error.log
 hexchat
 /hexchat
 hexchat/
-**hexchat/*
+**/hexchat/*
 
