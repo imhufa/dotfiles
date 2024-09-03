@@ -74,7 +74,11 @@ yarn-error.log
 **/.venv/*
 
 hexchat
+*hexchat
+hexchat*
 /hexchat
 hexchat/
 **/hexchat/*
+.config/hexchat
+.config/hexchat/*
 
