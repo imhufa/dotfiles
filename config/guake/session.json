@@ -1,6 +1,6 @@
 {
     "schema_version": 2,
-    "timestamp": 1725397751,
+    "timestamp": 1725403981,
     "workspace": {
         "0": [
             [
@@ -12,7 +12,7 @@
                         },
                         {
                             "type": "term",
-                            "directory": "/home/go/Desktop/desktop2/sg_new",
+                            "directory": "/home/go/Desktop/desktop2/.ph",
                             "custom_colors": {
                                 "fg_color": null,
                                 "bg_color": null,
@@ -21,7 +21,7 @@
                         },
                         {
                             "type": "term",
-                            "directory": "/home/go/Desktop/vid/im",
+                            "directory": "/home/go/Desktop/desktop2/.ph",
                             "custom_colors": {
                                 "fg_color": null,
                                 "bg_color": null,

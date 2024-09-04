@@ -50,3 +50,20 @@ if [[ -n $VENV_DIR ]]; then
 		export venvdir="$VENV_DIR"
 	fi
 fi
+
+if [[ -z $PSHOME ]]; then 
+	if [ -e /opt/microsoft/powershell/7 ]; then
+		export PSHOME=/opt/microsoft/powershell/7
+	else
+		export PSHOME=/opt/microsoft/powershell/7
+	fi
+fi
+
+if [[ -n $PSHOME ]]; then
+	if [ -e $HOME/.ps_path ]; then
+		. $HOME/dotfiles/login/pspath.sh
+	else
+		ln -s $HOME/dotfiles/login/pshellrc $HOME/.ps_path && . $HOME/.ps_path
+	fi
+fi
+
