@@ -69,7 +69,7 @@ fi
 
 if [[ -n $DOTFILES_DIR ]]; then
 	if [ -z $dotdir ]; then
-		export dotdir=(echo $DOTFILES_DIR)
+		export dotdir=$(echo $DOTFILES_DIR)
 	else
 		dotdir=
 	fi

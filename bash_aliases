@@ -94,3 +94,4 @@ alias twee='tree -L 2 -la'
 #
 ## v9.03
 
+alias cls='clear'
