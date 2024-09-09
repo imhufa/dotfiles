@@ -1,0 +1,1 @@
+yt-dlp -a list --audio-quality 'bv*+ba' -f best -o "%(autonumber)03d.%(ext)s"

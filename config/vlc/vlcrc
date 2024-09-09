@@ -1,4 +1,4 @@
-https://www.pornhub.com/view_video.php?viewkey=666f975de880b﻿###
+﻿###
 ###  vlc 3.0.21
 ###
 
@@ -278,7 +278,7 @@ https://www.pornhub.com/view_video.php?viewkey=666f975de880b﻿###
 [fps] # FPS conversion video filter
 
 # Frame rate (string)
-fps-fps=60
+fps-fps=74.000000
 
 [hqdn3d] # High Quality 3D Denoiser filter
 
@@ -1708,7 +1708,7 @@ sout-x264-tune=film
 [vc1] # VC1 video demuxer
 
 # Frames per Second (float)
-vc1-fps=60.000000
+vc1-fps=74.000000
 
 [rawaud] # Raw audio demuxer
 
@@ -1760,10 +1760,10 @@ vc1-fps=60.000000
 [h26x] # H264 video demuxer
 
 # Frames per Second (float)
-h264-fps=60.000000
+h264-fps=74.000000
 
 # Frames per Second (float)
-hevc-fps=60.000000
+hevc-fps=74.000000
 
 [image] # Image demuxer
 
@@ -1801,7 +1801,7 @@ hevc-fps=60.000000
 [es] # MPEG-I/II/4 / A52 / DTS / MLP audio
 
 # Frames per Second (float)
-es-fps=75.00
+es-fps=75.000000
 
 [mp4] # MP4 stream demuxer
 
@@ -1811,7 +1811,7 @@ es-fps=75.00
 [rawvid] # Raw video demuxer
 
 # Frames per Second (string)
-#rawvid-fps=60
+#rawvid-fps=
 
 # Width (integer)
 #rawvid-width=0
@@ -2070,7 +2070,7 @@ qt-fullscreen-screennumber=1
 #v4l2-aspect-ratio=4:3
 
 # Frame rate (string)
-v4l2-fps=60
+#v4l2-fps=60
 
 # Radio device (string)
 #v4l2-radio-dev=/dev/radio0
@@ -2206,7 +2206,7 @@ v4l2-fps=60
 #rfb-x509-client-key=
 
 # Frame rate (float)
-rfb-fps=60.000000
+rfb-fps=74.000000
 
 # Frame buffer depth (string)
 #rfb-chroma=RV32
@@ -2268,7 +2268,7 @@ rfb-fps=60.000000
 #vdr-chapter-offset=0
 
 # Frame rate (float)
-vdr-fps=60.000000
+vdr-fps=74.000000
 
 [dvdread] # DVDRead Input (no menu support)
 
@@ -2298,7 +2298,7 @@ vdr-fps=60.000000
 [xcb_screen] # Screen capture (with X11/XCB)
 
 # Frame rate (float)
-screen-fps=60.000000
+screen-fps=74.000000
 
 # Region left column (integer)
 #screen-left=0
@@ -2638,7 +2638,7 @@ imem-fps=60
 [shm] # Shared memory framebuffer
 
 # Frame rate (float)
-shm-fps=60.000000
+shm-fps=74.000000
 
 # Frame buffer depth (integer)
 #shm-depth=0
@@ -2660,8 +2660,7 @@ shm-fps=60.000000
 [timecode] # Time code subpicture elementary stream generator
 
 # Frame rate (string)
-#timecode-fps=25/1
-timecode-fps=60/1
+timecode-fps=74/1
 
 [filesystem] # File input
 
@@ -3993,7 +3992,7 @@ video-title-show=0
 snapshot-path=/home/go/images/screenshots/vlc
 
 # Video snapshot file prefix (string)
-#snapshot-prefix=vlcsnap-
+snapshot-prefix=vlc.
 
 # Video snapshot format (string)
 #snapshot-format=png
@@ -4044,7 +4043,7 @@ snapshot-path=/home/go/images/screenshots/vlc
 #hdtv-fix=1
 
 # Window decorations (boolean)
-#video-deco=1
+video-deco=0
 
 # Video title (string)
 #video-title=
@@ -4380,7 +4379,7 @@ osd=0
 #playlist-cork=1
 
 # Allow only one running instance (boolean)
-#one-instance=0
+one-instance=1
 
 # Use only one instance when started from file manager (boolean)
 #one-instance-when-started-from-file=1
@@ -4446,10 +4445,10 @@ osd=0
 #control=
 
 # Mouse wheel vertical axis control (integer)
-#hotkeys-y-wheel-mode=0
+hotkeys-y-wheel-mode=-1
 
 # Mouse wheel horizontal axis control (integer)
-#hotkeys-x-wheel-mode=2
+hotkeys-x-wheel-mode=-1
 
 # Fullscreen (string)
 #global-key-toggle-fullscreen=
@@ -4470,7 +4469,7 @@ osd=0
 #key-play-pause=Space	Media Play Pause
 
 # Pause only (string)
-#global-key-pause=
+global-key-pause=Media Play Pause
 
 # Pause only (string)
 #key-pause=Browser Stop
@@ -4485,13 +4484,13 @@ osd=0
 #global-key-faster=
 
 # Faster (string)
-#key-faster=+
+key-faster=
 
 # Slower (string)
 #global-key-slower=
 
 # Slower (string)
-#key-slower=-
+key-slower=
 
 # Normal rate (string)
 #global-key-rate-normal=
@@ -4503,22 +4502,22 @@ osd=0
 #global-key-rate-faster-fine=
 
 # Faster (fine) (string)
-#key-rate-faster-fine=]
+key-rate-faster-fine=
 
 # Slower (fine) (string)
 #global-key-rate-slower-fine=
 
 # Slower (fine) (string)
-#key-rate-slower-fine=[
+key-rate-slower-fine=
 
 # Next (string)
-#global-key-next=
+global-key-next=Ctrl+Volume Up
 
 # Next (string)
 #key-next=n	Media Next Track
 
 # Previous (string)
-#global-key-prev=
+global-key-prev=Ctrl+Volume Down
 
 # Previous (string)
 #key-prev=p	Media Prev Track
@@ -4533,40 +4532,40 @@ osd=0
 #global-key-position=
 
 # Position (string)
-#key-position=t
+key-position=
 
 # Very short backwards jump (string)
-#global-key-jump-extrashort=
+global-key-jump-extrashort=Shift+Volume Down
 
 # Very short backwards jump (string)
 #key-jump-extrashort=Shift+Left
 
 # Very short forward jump (string)
-#global-key-jump+extrashort=
+global-key-jump+extrashort=Shift+Volume Up
 
 # Very short forward jump (string)
 #key-jump+extrashort=Shift+Right
 
 # Short backwards jump (string)
-#global-key-jump-short=
+global-key-jump-short=Alt+Volume Down
 
 # Short backwards jump (string)
 #key-jump-short=Alt+Left
 
 # Short forward jump (string)
-#global-key-jump+short=
+global-key-jump+short=Alt+Volume Up
 
 # Short forward jump (string)
 #key-jump+short=Alt+Right
 
 # Medium backwards jump (string)
-#global-key-jump-medium=
+global-key-jump-medium=Alt+Shift+Volume Down
 
 # Medium backwards jump (string)
 #key-jump-medium=Ctrl+Left
 
 # Medium forward jump (string)
-#global-key-jump+medium=
+global-key-jump+medium=Alt+Shift+Volume Up
 
 # Medium forward jump (string)
 #key-jump+medium=Ctrl+Right
@@ -4623,46 +4622,46 @@ osd=0
 #global-key-disc-menu=
 
 # Go to the DVD menu (string)
-#key-disc-menu=Shift+m
+key-disc-menu=
 
 # Select previous DVD title (string)
 #global-key-title-prev=
 
 # Select previous DVD title (string)
-#key-title-prev=Shift+o
+key-title-prev=
 
 # Select next DVD title (string)
 #global-key-title-next=
 
 # Select next DVD title (string)
-#key-title-next=Shift+b
+key-title-next=
 
 # Select prev DVD chapter (string)
 #global-key-chapter-prev=
 
 # Select prev DVD chapter (string)
-#key-chapter-prev=Shift+p
+key-chapter-prev=
 
 # Select next DVD chapter (string)
 #global-key-chapter-next=
 
 # Select next DVD chapter (string)
-#key-chapter-next=Shift+n
+key-chapter-next=
 
 # Quit (string)
 #global-key-quit=
 
 # Quit (string)
-#key-quit=Ctrl+q
+key-quit=Ctrl+w
 
 # Volume up (string)
-#global-key-vol-up=
+global-key-vol-up=Volume Up
 
 # Volume up (string)
 #key-vol-up=Ctrl+Up	Volume Up
 
 # Volume down (string)
-#global-key-vol-down=
+global-key-vol-down=Volume Down
 
 # Volume down (string)
 #key-vol-down=Ctrl+Down	Volume Down
@@ -4677,37 +4676,37 @@ osd=0
 #global-key-subdelay-up=
 
 # Subtitle delay up (string)
-#key-subdelay-up=h
+key-subdelay-up=
 
 # Subtitle delay down (string)
 #global-key-subdelay-down=
 
 # Subtitle delay down (string)
-#key-subdelay-down=g
+key-subdelay-down=
 
 # Subtitle sync / bookmark audio timestamp (string)
 #global-key-subsync-markaudio=
 
 # Subtitle sync / bookmark audio timestamp (string)
-#key-subsync-markaudio=Shift+h
+key-subsync-markaudio=
 
 # Subtitle sync / bookmark subtitle timestamp (string)
 #global-key-subsync-marksub=
 
 # Subtitle sync / bookmark subtitle timestamp (string)
-#key-subsync-marksub=Shift+j
+key-subsync-marksub=
 
 # Subtitle sync / synchronize audio & subtitle timestamps (string)
 #global-key-subsync-apply=
 
 # Subtitle sync / synchronize audio & subtitle timestamps (string)
-#key-subsync-apply=Shift+k
+key-subsync-apply=
 
 # Subtitle sync / reset audio & subtitle synchronization (string)
 #global-key-subsync-reset=
 
 # Subtitle sync / reset audio & subtitle synchronization (string)
-#key-subsync-reset=Ctrl+Shift+k
+key-subsync-reset=
 
 # Subtitle position up (string)
 #global-key-subpos-up=
@@ -4725,97 +4724,97 @@ osd=0
 #global-key-audiodelay-up=
 
 # Audio delay up (string)
-#key-audiodelay-up=k
+key-audiodelay-up=
 
 # Audio delay down (string)
 #global-key-audiodelay-down=
 
 # Audio delay down (string)
-#key-audiodelay-down=j
+key-audiodelay-down=
 
 # Cycle audio track (string)
 #global-key-audio-track=
 
 # Cycle audio track (string)
-#key-audio-track=b
+key-audio-track=
 
 # Cycle through audio devices (string)
 #global-key-audiodevice-cycle=
 
 # Cycle through audio devices (string)
-#key-audiodevice-cycle=Shift+a
+key-audiodevice-cycle=
 
 # Cycle subtitle track in reverse order (string)
 #global-key-subtitle-revtrack=
 
 # Cycle subtitle track in reverse order (string)
-#key-subtitle-revtrack=Alt+v
+key-subtitle-revtrack=
 
 # Cycle subtitle track (string)
 #global-key-subtitle-track=
 
 # Cycle subtitle track (string)
-#key-subtitle-track=v
+key-subtitle-track=
 
 # Toggle subtitles (string)
 #global-key-subtitle-toggle=
 
 # Toggle subtitles (string)
-#key-subtitle-toggle=Shift+v
+key-subtitle-toggle=
 
 # Cycle next program Service ID (string)
 #global-key-program-sid-next=
 
 # Cycle next program Service ID (string)
-#key-program-sid-next=x
+key-program-sid-next=
 
 # Cycle previous program Service ID (string)
 #global-key-program-sid-prev=
 
 # Cycle previous program Service ID (string)
-#key-program-sid-prev=Shift+x
+key-program-sid-prev=
 
 # Cycle source aspect ratio (string)
 #global-key-aspect-ratio=
 
 # Cycle source aspect ratio (string)
-#key-aspect-ratio=a
+key-aspect-ratio=
 
 # Cycle video crop (string)
 #global-key-crop=
 
 # Cycle video crop (string)
-#key-crop=c
+key-crop=
 
 # Toggle autoscaling (string)
 #global-key-toggle-autoscale=
 
 # Toggle autoscaling (string)
-#key-toggle-autoscale=o
+key-toggle-autoscale=
 
 # Increase scale factor (string)
 #global-key-incr-scalefactor=
 
 # Increase scale factor (string)
-#key-incr-scalefactor=Alt+o
+key-incr-scalefactor=
 
 # Decrease scale factor (string)
 #global-key-decr-scalefactor=
 
 # Decrease scale factor (string)
-#key-decr-scalefactor=Alt+Shift+o
+key-decr-scalefactor=
 
 # Toggle deinterlacing (string)
 #global-key-deinterlace=
 
 # Toggle deinterlacing (string)
-#key-deinterlace=d
+key-deinterlace=
 
 # Cycle deinterlace modes (string)
 #global-key-deinterlace-mode=
 
 # Cycle deinterlace modes (string)
-#key-deinterlace-mode=Shift+d
+key-deinterlace-mode=
 
 # Show controller in fullscreen (string)
 #global-key-intf-show=
@@ -4851,91 +4850,91 @@ osd=0
 #global-key-zoom=
 
 # Zoom (string)
-#key-zoom=z
+key-zoom=
 
 # Un-Zoom (string)
 #global-key-unzoom=
 
 # Un-Zoom (string)
-#key-unzoom=Shift+z
+key-unzoom=
 
 # Toggle wallpaper mode in video output (string)
 #global-key-wallpaper=
 
 # Toggle wallpaper mode in video output (string)
-#key-wallpaper=w
+key-wallpaper=
 
 # Crop one pixel from the top of the video (string)
 #global-key-crop-top=
 
 # Crop one pixel from the top of the video (string)
-#key-crop-top=Alt+r
+key-crop-top=
 
 # Uncrop one pixel from the top of the video (string)
 #global-key-uncrop-top=
 
 # Uncrop one pixel from the top of the video (string)
-#key-uncrop-top=Alt+Shift+r
+key-uncrop-top=
 
 # Crop one pixel from the left of the video (string)
 #global-key-crop-left=
 
 # Crop one pixel from the left of the video (string)
-#key-crop-left=Alt+d
+key-crop-left=
 
 # Uncrop one pixel from the left of the video (string)
 #global-key-uncrop-left=
 
 # Uncrop one pixel from the left of the video (string)
-#key-uncrop-left=Alt+Shift+d
+key-uncrop-left=
 
 # Crop one pixel from the bottom of the video (string)
 #global-key-crop-bottom=
 
 # Crop one pixel from the bottom of the video (string)
-#key-crop-bottom=Alt+c
+key-crop-bottom=
 
 # Uncrop one pixel from the bottom of the video (string)
 #global-key-uncrop-bottom=
 
 # Uncrop one pixel from the bottom of the video (string)
-#key-uncrop-bottom=Alt+Shift+c
+key-uncrop-bottom=
 
 # Crop one pixel from the right of the video (string)
 #global-key-crop-right=
 
 # Crop one pixel from the right of the video (string)
-#key-crop-right=Alt+f
+key-crop-right=
 
 # Uncrop one pixel from the right of the video (string)
 #global-key-uncrop-right=
 
 # Uncrop one pixel from the right of the video (string)
-#key-uncrop-right=Alt+Shift+f
+key-uncrop-right=
 
 # Random (string)
 #global-key-random=
 
 # Random (string)
-#key-random=r
+key-random=
 
 # Normal/Loop/Repeat (string)
 #global-key-loop=
 
 # Normal/Loop/Repeat (string)
-#key-loop=l
+key-loop=Shift+l
 
 # Shrink the viewpoint field of view (360°) (string)
 #global-key-viewpoint-fov-in=
 
 # Shrink the viewpoint field of view (360°) (string)
-#key-viewpoint-fov-in=Page Up
+key-viewpoint-fov-in=
 
 # Expand the viewpoint field of view (360°) (string)
 #global-key-viewpoint-fov-out=
 
 # Expand the viewpoint field of view (360°) (string)
-#key-viewpoint-fov-out=Page Down
+key-viewpoint-fov-out=
 
 # Roll the viewpoint clockwise (360°) (string)
 #global-key-viewpoint-roll-clock=
@@ -4953,25 +4952,25 @@ osd=0
 #global-key-zoom-quarter=
 
 # 1:4 Quarter (string)
-#key-zoom-quarter=Alt+1
+key-zoom-quarter=
 
 # 1:2 Half (string)
 #global-key-zoom-half=
 
 # 1:2 Half (string)
-#key-zoom-half=Alt+2
+key-zoom-half=
 
 # 1:1 Original (string)
 #global-key-zoom-original=
 
 # 1:1 Original (string)
-#key-zoom-original=Alt+3
+key-zoom-original=
 
 # 2:1 Double (string)
 #global-key-zoom-double=
 
 # 2:1 Double (string)
-#key-zoom-double=Alt+4
+key-zoom-double=
 
 # Very short jump length (integer)
 #extrashort-jump-size=3
@@ -4989,145 +4988,145 @@ osd=0
 #global-key-set-bookmark1=
 
 # Set playlist bookmark 1 (string)
-#key-set-bookmark1=Ctrl+F1
+key-set-bookmark1=
 
 # Set playlist bookmark 2 (string)
 #global-key-set-bookmark2=
 
 # Set playlist bookmark 2 (string)
-#key-set-bookmark2=Ctrl+F2
+key-set-bookmark2=
 
 # Set playlist bookmark 3 (string)
 #global-key-set-bookmark3=
 
 # Set playlist bookmark 3 (string)
-#key-set-bookmark3=Ctrl+F3
+key-set-bookmark3=
 
 # Set playlist bookmark 4 (string)
 #global-key-set-bookmark4=
 
 # Set playlist bookmark 4 (string)
-#key-set-bookmark4=Ctrl+F4
+key-set-bookmark4=
 
 # Set playlist bookmark 5 (string)
 #global-key-set-bookmark5=
 
 # Set playlist bookmark 5 (string)
-#key-set-bookmark5=Ctrl+F5
+key-set-bookmark5=
 
 # Set playlist bookmark 6 (string)
 #global-key-set-bookmark6=
 
 # Set playlist bookmark 6 (string)
-#key-set-bookmark6=Ctrl+F6
+key-set-bookmark6=
 
 # Set playlist bookmark 7 (string)
 #global-key-set-bookmark7=
 
 # Set playlist bookmark 7 (string)
-#key-set-bookmark7=Ctrl+F7
+key-set-bookmark7=
 
 # Set playlist bookmark 8 (string)
 #global-key-set-bookmark8=
 
 # Set playlist bookmark 8 (string)
-#key-set-bookmark8=Ctrl+F8
+key-set-bookmark8=
 
 # Set playlist bookmark 9 (string)
 #global-key-set-bookmark9=
 
 # Set playlist bookmark 9 (string)
-#key-set-bookmark9=Ctrl+F9
+key-set-bookmark9=
 
 # Set playlist bookmark 10 (string)
 #global-key-set-bookmark10=
 
 # Set playlist bookmark 10 (string)
-#key-set-bookmark10=Ctrl+F10
+key-set-bookmark10=
 
 # Play playlist bookmark 1 (string)
 #global-key-play-bookmark1=
 
 # Play playlist bookmark 1 (string)
-#key-play-bookmark1=F1
+key-play-bookmark1=
 
 # Play playlist bookmark 2 (string)
 #global-key-play-bookmark2=
 
 # Play playlist bookmark 2 (string)
-#key-play-bookmark2=F2
+key-play-bookmark2=
 
 # Play playlist bookmark 3 (string)
 #global-key-play-bookmark3=
 
 # Play playlist bookmark 3 (string)
-#key-play-bookmark3=F3
+key-play-bookmark3=
 
 # Play playlist bookmark 4 (string)
 #global-key-play-bookmark4=
 
 # Play playlist bookmark 4 (string)
-#key-play-bookmark4=F4
+key-play-bookmark4=
 
 # Play playlist bookmark 5 (string)
 #global-key-play-bookmark5=
 
 # Play playlist bookmark 5 (string)
-#key-play-bookmark5=F5
+key-play-bookmark5=
 
 # Play playlist bookmark 6 (string)
 #global-key-play-bookmark6=
 
 # Play playlist bookmark 6 (string)
-#key-play-bookmark6=F6
+key-play-bookmark6=
 
 # Play playlist bookmark 7 (string)
 #global-key-play-bookmark7=
 
 # Play playlist bookmark 7 (string)
-#key-play-bookmark7=F7
+key-play-bookmark7=
 
 # Play playlist bookmark 8 (string)
 #global-key-play-bookmark8=
 
 # Play playlist bookmark 8 (string)
-#key-play-bookmark8=F8
+key-play-bookmark8=
 
 # Play playlist bookmark 9 (string)
 #global-key-play-bookmark9=
 
 # Play playlist bookmark 9 (string)
-#key-play-bookmark9=F9
+key-play-bookmark9=
 
 # Play playlist bookmark 10 (string)
 #global-key-play-bookmark10=
 
 # Play playlist bookmark 10 (string)
-#key-play-bookmark10=F10
+key-play-bookmark10=
 
 # Clear the playlist (string)
 #global-key-clear-playlist=
 
 # Clear the playlist (string)
-#key-clear-playlist=Ctrl+w
+key-clear-playlist=Shift+w
 
 # Reset subtitles text scale (string)
 #global-key-subtitle-text-scale-normal=
 
 # Reset subtitles text scale (string)
-#key-subtitle-text-scale-normal=Ctrl+0
+key-subtitle-text-scale-normal=
 
 # Scale down subtitles text (string)
 #global-key-subtitle-text-scale-up=
 
 # Scale down subtitles text (string)
-#key-subtitle-text-scale-up=Ctrl+Mouse Wheel Up
+key-subtitle-text-scale-up=
 
 # Scale up subtitles text (string)
 #global-key-subtitle-text-scale-down=
 
 # Scale up subtitles text (string)
-#key-subtitle-text-scale-down=Ctrl+Mouse Wheel Down
+key-subtitle-text-scale-down=
 
 # Playlist bookmark 1 (string)
 #bookmark1=
