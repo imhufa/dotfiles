@@ -1,5 +1,5 @@
 {
-   "checksum": "47af311aeb8090144609e43ca4a13ecb",
+   "checksum": "e0a5cac3bf57172c5844a26e608cbc70",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1472,7 +1472,7 @@
          } ],
          "date_added": "13361524226794283",
          "date_last_used": "0",
-         "date_modified": "13365680865224371",
+         "date_modified": "13365706387201107",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
@@ -2028,6 +2028,84 @@
                "id": "262",
                "name": "android",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13365710265269419",
+                        "date_last_used": "0",
+                        "guid": "dc6c6412-df1b-45b8-822e-94326e857998",
+                        "id": "291",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "What is Verdaccio? | Verdaccio",
+                        "type": "url",
+                        "url": "https://verdaccio.org/docs/what-is-verdaccio"
+                     }, {
+                        "date_added": "13365710520794423",
+                        "date_last_used": "0",
+                        "guid": "44f50233-3c6b-4df9-855e-f978b8eb322c",
+                        "id": "295",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "About npm | npm Docs",
+                        "type": "url",
+                        "url": "https://docs.npmjs.com/about-npm"
+                     } ],
+                     "date_added": "13365710318810590",
+                     "date_last_used": "0",
+                     "date_modified": "13365710788645147",
+                     "guid": "b4239cd4-16e9-4696-8b38-8aa93403bd76",
+                     "id": "294",
+                     "name": "npm",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13365710318810264",
+                  "date_last_used": "0",
+                  "date_modified": "13365710318810264",
+                  "guid": "4c5520d4-f04d-4382-b50e-e7b95869792c",
+                  "id": "293",
+                  "name": "js",
+                  "type": "folder"
+               } ],
+               "date_added": "13365710294633845",
+               "date_last_used": "0",
+               "date_modified": "13365710294634411",
+               "guid": "9b9c2fe6-db2e-4eaf-8ff1-f10a3dfdb401",
+               "id": "292",
+               "name": "code",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13365710788645147",
+                     "date_last_used": "0",
+                     "guid": "0a5d622d-8ddd-4644-8f7c-1fd856ce5c1f",
+                     "id": "296",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "copilot: notebook",
+                     "type": "url",
+                     "url": "https://www.bing.com/chat?showconv=1&showntbk=1"
+                  } ],
+                  "date_added": "13365710818172311",
+                  "date_last_used": "0",
+                  "date_modified": "13365710856639719",
+                  "guid": "97a9d864-54f3-49aa-9eb2-9785f920bdda",
+                  "id": "298",
+                  "name": "bing-chat",
+                  "type": "folder"
+               } ],
+               "date_added": "13365710818172043",
+               "date_last_used": "0",
+               "date_modified": "13365710818172043",
+               "guid": "368718b5-7bc7-4d88-bf3b-4aa1f9a6f6f8",
+               "id": "297",
+               "name": "ai",
+               "type": "folder"
             } ],
             "date_added": "13361543943835841",
             "date_last_used": "0",
@@ -2486,6 +2564,66 @@
             "guid": "239b2afa-ab1c-4e51-8e51-b6f37ad7b0d7",
             "id": "200",
             "name": "career",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13365706387201107",
+                     "date_last_used": "0",
+                     "guid": "57f1dd44-8cd0-490a-8de0-e0e6e4691923",
+                     "id": "286",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "imagine me",
+                     "type": "url",
+                     "url": "https://imagineme.ai/prompt/"
+                  }, {
+                     "date_added": "13365710213746545",
+                     "date_last_used": "0",
+                     "guid": "4d9efbb8-c2ee-4873-8f12-97d0e572b6f2",
+                     "id": "290",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Microsoft Designer - Stunning designs in a flash",
+                     "type": "url",
+                     "url": "https://designer.microsoft.com/design?id=tttytJcBg32Uz8RDfOhNsw%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.dZD.ZX5kkEBMyv3I5MHq&edit=1&sappdirectload=1&showselective=1&FORM=SYDBIC&imageEffect=None"
+                  }, {
+                     "date_added": "13365710856639719",
+                     "date_last_used": "0",
+                     "guid": "32451bbe-59df-48e3-86fb-9207a5b20bbe",
+                     "id": "299",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "hufalab-avatar",
+                     "type": "url",
+                     "url": "https://copilot.microsoft.com/images/create/semi-professional2c-yet-funny-and-with-attitude-ava/1-6697f9475c0049f5bbac38363f9bf959?id=tttytJcBg32Uz8RDfOhNsw%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.dZD.ZX5kkEBMyv3I5MHq&lng=en-US&ineditshare=1"
+                  } ],
+                  "date_added": "13365706435747456",
+                  "date_last_used": "0",
+                  "date_modified": "13365710888666743",
+                  "guid": "529647a0-e028-404b-9473-02f1e093e338",
+                  "id": "289",
+                  "name": "avatar",
+                  "type": "folder"
+               } ],
+               "date_added": "13365706435747267",
+               "date_last_used": "0",
+               "date_modified": "13365706435747267",
+               "guid": "66334253-fa22-46f6-a31c-3d3648eb8d8d",
+               "id": "288",
+               "name": "ai-generated",
+               "type": "folder"
+            } ],
+            "date_added": "13365706406523441",
+            "date_last_used": "0",
+            "date_modified": "13365706406523733",
+            "guid": "31be1960-bc60-4e67-a248-4497d175ef68",
+            "id": "287",
+            "name": "webtools",
             "type": "folder"
          } ],
          "date_added": "13361524226794287",

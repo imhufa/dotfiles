@@ -1,7 +1,11 @@
-#!/usr/bin/zsh
+#!/usr/bin/env zsh
 
-. $HOME/.screenlayout/mode.sh; wait
-. $HOME/.screenlayout/disp.sh; wait
-. $HOME/.screenlayout/main.sh; wait
-. $HOME/.screenlayout/display_fix.sh; wait
+dir="$DOTFILES_DIR/scripts/login/display"
+step1="check_display.sh"
+step2="set_display.sh"
+step3="scale_display.sh"
+
+. "$dir/$step1"; wait
+. "$dir/$step2"; wait
+. "$dir/$step3"
 

@@ -1,0 +1,16 @@
+# CodeSandbox SSH Integration
+Include "csb/config"
+# End of CodeSandbox SSH Integration
+# SSH config file, 'man ssh_config' for more details.
+
+#Host example
+#    hostname example.com
+#    user joebloggs
+
+# ## CUSTOM
+
+Host github
+	hostname github.com
+	ForwardAgent yes
+	user g-osen
+

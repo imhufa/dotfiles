@@ -6,7 +6,3 @@ if [[ -n $BASH_VERSION ]]; then
 	fi
 fi
 
-if [ -f "$HOME/.scripts/login/autofix.sh" ]; then
-	. "$HOME/.scripts/login/autofix.sh";
-fi
-

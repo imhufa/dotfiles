@@ -1,0 +1,2 @@
+<sed><bash>::https://stackoverflow.com/questions/2099471/add-a-prefix-string-to-beginning-of-each-line
+<sed><bash>:[prefix]:$ sed -e ' s/^/\/escape\/prefix\// ' foo > bar

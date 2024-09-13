@@ -53,8 +53,9 @@ alias gomyip='. $HOME/.scripts/query-ip.sh'
 alias golistscripts='. $HOME/dotfiles/scripts/listscripts.sh'
 
 ### command args
-alias la='ls -la'
-alias ll='ls -a1'
+alias ld='ls -ad --color=auto'
+alias la='ls -la --color=auto'
+alias ll='ls -a1 --color=auto'
 
 ### TBD
 ##
@@ -89,11 +90,17 @@ alias goechots='. $HOME/.scripts/echots.sh'
 alias gopaneall='tmux setw synchronize-pane on'
 alias gopaneoff='tmux setw synchronize-pane offi'
 alias queryip="curl http://ipecho.net/plain; echo"
-alias tweee='tree -L 1 -la'
-alias twee='tree -L 2 -la'
+alias twee='tree -L 1 -a'
+alias tweee='tree -L 2 -a'
+alias notree='tree -L 1 -a --noreport | tail -n +2'
+
 #
 ## v9.03
-
 alias cls='clear'
 alias gospace='lsblk -o NAME,MOUNTPOINTS,SIZE,FSUSE%'
+#
+## v9.13
+alias grep='grep --color=auto'
+alias ls='ls --color=auto'
+alias goPlugins="echo $plugins | sed -e ' s/\ /\n/g '"
 
