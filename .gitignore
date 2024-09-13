@@ -32,6 +32,20 @@ bak
 oh-my-zsh
 xdg
 
+*KeePass
+KeePass*
+**KeePass*
+config/KeePass
+config/KeePass/*
+**/KeePass*/*
+
+*keepassxc
+keepassxc*
+**keepasxc*
+config/keepassxc
+config/keepassxc/*
+**/keepassxc/*
+
 **/bak/*
 
 vscode-oss/
