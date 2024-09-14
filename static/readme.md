@@ -34,11 +34,13 @@ TBD
 ├── envrc
 ├── ev
 ├── ev-py
+├── functions
 ├── .git
 ├── gitconfig
 ├── .gitignore
 ├── idlerc
 ├── .ignore
+├── lightdm
 ├── .local_var
 ├── login
 ├── logs
@@ -46,6 +48,7 @@ TBD
 ├── mplayer
 ├── mutt
 ├── muttrc
+├── nitrogen.cfg
 ├── oh-my-zsh
 ├── Pipfile
 ├── Pipfile.lock
@@ -54,8 +57,7 @@ TBD
 ├── README.md
 ├── screenlayout
 ├── scripts
-├── ssh_config
-├── sshd_config
+├── ssh
 ├── static
 ├── tmux.conf
 ├── torrc
@@ -69,10 +71,11 @@ TBD
 ├── xinputrc
 ├── xorg.conf
 ├── zshenv
+├── zsh_plugins
 ├── zshrc
 └── zshrc.d
 <br>
 <br>
 <br>
 <br>
-<i><b>[updated]: </b>09/09/24</i>
+<i><b>[updated]: </b>09/13/24</i>
